@@ -16,7 +16,7 @@
 ;; state outside of functions by hand, so be careful!
 
 ;; The number of thread workers created for each job
-(def ^:const num-job-workers 52)
+(def ^:const num-job-workers 360)
 
 ;; This function is called when new data is available for clients.
 ;; Set it by calling reset-updated-fn!.
