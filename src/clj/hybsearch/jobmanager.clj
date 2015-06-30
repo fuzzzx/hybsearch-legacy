@@ -157,9 +157,9 @@
      :clustalscheme scheme-id
      :triple triple-id
      :tree g-tree
-     :frame_binomial (get-in seq-map [(first (first g-tree)) :binomial])
-     :hinge_key (cljstr/join "," (sort (map first (rest g-tree))))
-     :pair_key (cljstr/join "," [(nth binomials 0) (nth binomials 2)])
+     ;;:frame_binomial (get-in seq-map [(first (first g-tree)) :binomial])
+     ;;:hinge_key (cljstr/join "," (sort (map first (rest g-tree))))
+     ;;:pair_key (cljstr/join "," [(nth binomials 0) (nth binomials 2)])
      :nonmonophyly (potential-hybrid? g-tree seq-map)
      }))
 
