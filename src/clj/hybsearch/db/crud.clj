@@ -139,6 +139,23 @@
   (mc/find-one-as-map db coll/trees {:clustalscheme scheme-id :triple triple-id}))
 
 ;; -------------------------
+;;  Todo
+;; -------------------------
+
+;; Holds docs of a triple_key to be processed and the job_id assiciated with it, and a flag processed
+
+;; TODO: Are race conditions an issue here?
+(defn create-todo [db triple-id job-id]
+  (mc/insert db coll/todo {:job_id job-id :triple_key triple-id :processed false}))
+
+(defn read-todo-by-job [db job-id]
+  (mc/find-one-as-map db coll/todo {:job_id job-id :processed false}))
+
+(defn set-todo-processed [db triple-id job-id]
+  (mc/update db coll/todo {:job_id job-id :triple_key triple-id} {$set {:processed true}} {:multi false}))
+
+
+;; -------------------------
 ;; Query
 ;; -------------------------
 

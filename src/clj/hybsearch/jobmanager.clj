@@ -140,6 +140,7 @@
                        (binom-triples)))]
       ;; Assign list of ids to the job's triples array in the database
       ;; Setting the triples automatically changes initialized to true.
+      ;; CHANGE TO TODO HERE
       (crud/set-job-triples @(db/db) (:_id job) trip-ids)
       (@updated-fn)
       true)))
