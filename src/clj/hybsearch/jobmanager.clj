@@ -48,16 +48,16 @@
 (defonce timings (atom {}))
 
 (defn correct-processed-metric [job-id num-left]
-  (let [todos (crud/read-todos-by-job @(db/db) job-id)
-    ;;object ids
-        ts (:triple_id todos)] 
+  (let [todos (crud/read-unprocessed-todos-by-job @(db/db) job-id)
+    ;;object ids 
+        ts (map (fn [to] (:triple_id to)) todos)]
     (crud/set-job-processed @(db/db) job-id (- (count ts) num-left))))
 
 ;; Caluclates the ids of the triples that still need processing.
 (defn triples-left [job-id]
-  ;;(let [job (crud/read-job-by-id @(db/db) job-id)]
-    ;; If the triple has a tree corresponding to this job's clustalscheme, it doesn't need to be processed.
-    (crud/read-todos-by-job @(db/db) job-id))
+  (let [todos (crud/read-unprocessed-todos-by-job @(db/db) job-id)]
+    ;; object ids
+    (map (fn [to] (:triple_id to)) todos)))
 
 (defn insert-time! [job-id t]
   (swap! timings update-in [job-id]
@@ -140,6 +140,7 @@
       ;; Assign list of ids to the job's triples array in the database
       ;; Setting the triples automatically changes initialized to true.
       ;; CHANGE TO TODO HERE
+
       (mapv (fn [t] 
         (crud/create-todos @(db/db) (:_id job) t)) trip-ids)
       (@updated-fn)
@@ -220,8 +221,10 @@
     (if (some? job) ;; If the job doesn't exist in the database, no point in continuing.
       (if (activate-job! job-id) ;; If the job is already active (false return val), this run-job! call is redundant, and exits.
         (do
+          ;;(>!! output-chan (str "Before Init Job"))
           (init-job job)
           (let [remaining (triples-left job-id)]
+            ;;(>!! output-chan (str remaining))
             (correct-processed-metric job-id (count remaining))
             (process-triples! job-id remaining)))))))
 

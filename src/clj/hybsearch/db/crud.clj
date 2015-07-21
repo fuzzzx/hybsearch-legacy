@@ -146,12 +146,13 @@
 
 ;; TODO: Are race conditions an issue here?
 (defn create-todos [db job-id triple-id]
-  (mc/insert db coll/todo {:job_id job-id :triple_id triple-id :processed false}))
+  (mc/insert db coll/todo {:job_id job-id :triple_id triple-id :processed false})
+  (mc/update-by-id db coll/jobs job-id {$set {:initialized true}}))
 
 (defn read-single-todo-by-job [db job-id]
   (mc/find-one-as-map db coll/todo {:job_id job-id :processed false}))
 
-(defn read-todos-by-job [db job-id]
+(defn read-unprocessed-todos-by-job [db job-id]
   (mc/find-maps db coll/todo {:job_id job-id :processed false}))
 
 (defn read-todo-by-triple [db triple-id job-id]
