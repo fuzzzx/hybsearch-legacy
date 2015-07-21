@@ -1,0 +1,2007 @@
+LOCUS       KC755195                 844 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Rheodytes leukops isolate 36 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755195
+VERSION     KC755195.1  GI:485650134
+KEYWORDS    .
+SOURCE      mitochondrion Rheodytes leukops
+  ORGANISM  Rheodytes leukops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Rheodytes.
+REFERENCE   1  (bases 1 to 844)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 844)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..844
+                     /organism="Rheodytes leukops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="36"
+                     /db_xref="taxon:44528"
+     tRNA            complement(<1..48)
+                     /product="tRNA-Glu"
+     gene            62..>844
+                     /gene="CYTB"
+     CDS             62..>844
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84922.1"
+                     /db_xref="GI:485650135"
+                     /translation="MKNTNPLLKTINNALINLPTPSNISAFWNFGSLLGACLIVQLAT
+                     GIFLAMHYSSDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVVLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGHTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFIIMGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIACLLTLTLFYPNMLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaatca acaaccaccc cacacaagac acataaaacc acaggaacca tcacccaaac
+       61 cataaaaaac actaacccac tattaaaaac catcaacaac gccctaatca acctacccac
+      121 cccatctaat atttccgctt tctgaaactt cggttcatta ctaggagcat gtctcatcgt
+      181 acaactagcc acaggaatct tcttagctat acactactca tctgacatct ccacagcatt
+      241 ctcatcaatc tcccacatcc aacgagacgt ccagtatgga tgactaattc gaaatataca
+      301 cgcaaatggt gcctcactat ttttcatatg catctacctc cacatcggac gagggatcta
+      361 ctacggctcc tacctctaca acaaaacatg aaacaccgga gtagtactgc tactactagt
+      421 catagctact gcatttgtag gctacgtact gccatgaggc caaatatcat tctgaggggc
+      481 cacagtaatc accaacctcc tatcggccat tccatatgtg ggccacacac ttgtagaatg
+      541 aatctgaggt gggttctccg tagacaacgc caccctaacc cgattcttca cattccattt
+      601 tctaatccca ttcatcatca taggaataac aatattacac ctcctactac tacacgaaac
+      661 agggtcaaac aacccaacag gattaaactc gaactgtgac aaaatcccat tccaccccta
+      721 cttctcctac aaagacctac tgggcctcat cctaataatc gcatgcctac tcaccctaac
+      781 cctattctac ccaaacatac taggagaccc agacaacttc acaccagcta acccactaac
+      841 cacg
+//
+
+LOCUS       KC755194                 844 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Rheodytes leukops isolate 35 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755194
+VERSION     KC755194.1  GI:485650132
+KEYWORDS    .
+SOURCE      mitochondrion Rheodytes leukops
+  ORGANISM  Rheodytes leukops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Rheodytes.
+REFERENCE   1  (bases 1 to 844)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 844)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..844
+                     /organism="Rheodytes leukops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="35"
+                     /db_xref="taxon:44528"
+     tRNA            complement(<1..48)
+                     /product="tRNA-Glu"
+     gene            62..>844
+                     /gene="CYTB"
+     CDS             62..>844
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84921.1"
+                     /db_xref="GI:485650133"
+                     /translation="MKNTNPLLKTINNALINLPTPSNISAFWNFGSLLGACLIVQLAT
+                     GIFLAMHYSSDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVVLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGHTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFIIMGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIACLLTLTLFYPNMLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaatca acaaccaccc cacacaagac acataaaacc acaggaacca tcacccaaac
+       61 cataaaaaac actaacccac tattaaaaac catcaacaac gccctaatca acctacccac
+      121 cccatctaat atttccgctt tctgaaactt cggttcatta ctaggagcat gtctcatcgt
+      181 acaactagcc acaggaatct tcttagctat acactactca tctgacatct ccacagcatt
+      241 ctcatcaatc tcccacatcc aacgagacgt ccagtatgga tgactaattc gaaatataca
+      301 cgcaaatggt gcctcactat ttttcatatg catctacctc cacatcggac gagggatcta
+      361 ctacggctcc tacctctaca acaaaacatg aaacaccgga gtagtactgc tactactagt
+      421 catagctact gcatttgtag gctacgtact gccatgaggc caaatatcat tctgaggggc
+      481 cacagtaatc accaacctcc tatcggccat tccatatgtg ggccacacac ttgtagaatg
+      541 aatctgaggt gggttctccg tagacaacgc caccctaacc cgattcttca cattccattt
+      601 tctaatccca ttcatcatca taggaataac aatattacac ctcctactac tacacgaaac
+      661 agggtcaaac aacccaacag gattaaactc gaactgtgac aaaatcccat tccaccccta
+      721 cttctcctac aaagacctac tgggcctcat cctaataatc gcatgcctac tcaccctaac
+      781 cctattctac ccaaacatac taggagaccc agacaacttc acaccagcta acccactaac
+      841 cacg
+//
+
+LOCUS       KC755193                 844 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys purvisi tRNA-Glu gene, partial sequence; and cytochrome b
+            (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755193
+VERSION     KC755193.1  GI:485650130
+KEYWORDS    .
+SOURCE      mitochondrion Flaviemys purvisi (Manning River turtle)
+  ORGANISM  Flaviemys purvisi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Flaviemys.
+REFERENCE   1  (bases 1 to 844)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 844)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..844
+                     /organism="Flaviemys purvisi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1041118"
+     tRNA            complement(<1..47)
+                     /product="tRNA-Glu"
+     gene            62..>844
+                     /gene="CYTB"
+     CDS             62..>844
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84920.1"
+                     /db_xref="GI:485650131"
+                     /translation="MKNTNSLLKIINNSLINLPTPSNISASWNFGSLLGACLALQLAT
+                     GIFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNTHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYLGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFMILGMTMLHLLMLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLLLMITCLLMLTLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaatca accaccccgc acttaagaca cataaaacca caggaatcac gaccaccaac
+       61 cataaaaaac acaaactcac tgttaaaaat tattaacaac tccctaatca acctccctac
+      121 cccatccaat atctccgctt catgaaactt cgggtcatta ttaggagcat gtcttgctct
+      181 acaactagcc acaggaatct tcttagccat acactactca cctgatatct ccatagcatt
+      241 ctcatcaatc tcccatatcc aacgtgacgt ccaatacgga tgactaattc gaaacacaca
+      301 cgccaacgga gcttcattat ttttcatatg catctacctt catatcggac gaggcatcta
+      361 ttatggctct tatctatata acaaaacatg aaacaccgga gtaatattac tattccttgt
+      421 tatagccacc gcattcgtgg gctacgtatt accatgagga caaatatctt tctgaggggc
+      481 tacagtaatc accaacctcc tatcagctat cccataccta ggccccacac ttgtagaatg
+      541 aatttgaggc ggattttccg tagataatgc cactttaacc cgattcttta cattccactt
+      601 tctaatccca ttcataatct taggaataac catactacac ctccttatat tacacgaaac
+      661 aggatcaaac aacccaacag gattaaactc aaactgtgac aaaatcccat ttcacccata
+      721 cttctcctac aaagacctac taggcctcct cctaataatc acatgcctac tcatactaac
+      781 cctattttac ccaaatctac taggagaccc agacaacttc acaccagcta atccactaac
+      841 cact
+//
+
+LOCUS       KC755192                 846 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys georgesi tRNA-Glu gene, partial sequence; and cytochrome
+            b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755192
+VERSION     KC755192.1  GI:485650128
+KEYWORDS    .
+SOURCE      mitochondrion Myuchelys georgesi (Bellinger river turtle)
+  ORGANISM  Myuchelys georgesi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Myuchelys.
+REFERENCE   1  (bases 1 to 846)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 846)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..846
+                     /organism="Myuchelys georgesi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1041117"
+     tRNA            complement(<1..50)
+                     /product="tRNA-Glu"
+     gene            64..>846
+                     /gene="CYTB"
+     CDS             64..>846
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84919.1"
+                     /db_xref="GI:485650129"
+                     /translation="MKNTNPLLKIINNTFIDLPTPSNISALWNFGSLLGMCLILQLAT
+                     GIFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYAGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIMCLLTLTLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaataa atcaccatcc acaaacaaag acacataaaa ccacaggaac ctctacttca
+       61 accataaaaa acacaaatcc actattaaaa attattaaca acaccttcat cgatctcccc
+      121 accccctcca acatctccgc cctatgaaac ttcggatcac tactaggaat atgcctaatt
+      181 ctacaactag ccacaggaat cttcctagct atacactact cgcccgatat ctccatagca
+      241 ttctcatcaa tctcccacat ccaacgagac gtccaatatg gttgactgat tcgaaacata
+      301 cacgccaacg gtgcttcact atttttcata tgcatttacc tccatattgg acgtggaatc
+      361 tactacggtt cctacctcta caataaaacc tgaaacactg gagtaattct actattccta
+      421 gtcatagcca ccgcattcgt gggctacgta ctaccatgag gccaaatatc attctgaggg
+      481 gctacagtaa tcaccaacct tctatcagcc atcccatatg caggccctac acttgtagaa
+      541 tgaatctgag gaggattctc cgtagacaac gccaccctga ctcgattctt cacattccac
+      601 tttctaatcc cattcgctat cctaggaata accatactac acctcctact actacacgaa
+      661 acaggatcaa acaacccaac aggattaaac tcaaactgcg acaagatccc attccaccca
+      721 tatttttctt acaaagacct actaggcctc atcctaataa tcatatgcct gctcaccctc
+      781 accctatttt acccaaacct actaggagat ccagacaact tcacaccagc caacccacta
+      841 accacc
+//
+
+LOCUS       KC755191                 847 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys bellii tRNA-Glu gene, partial sequence; and cytochrome b
+            (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755191
+VERSION     KC755191.1  GI:485650126
+KEYWORDS    .
+SOURCE      mitochondrion Myuchelys bellii (Western sawshelled turtle)
+  ORGANISM  Myuchelys bellii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Myuchelys.
+REFERENCE   1  (bases 1 to 847)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 847)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..847
+                     /organism="Myuchelys bellii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:904237"
+     tRNA            complement(<1..52)
+                     /product="tRNA-Glu"
+     gene            65..>847
+                     /gene="CYTB"
+     CDS             65..>847
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84918.1"
+                     /db_xref="GI:485650127"
+                     /translation="MKNTNPLLKIINNTFVDLPTPSNISALWNFGSLLGACLILQLAT
+                     GIFLAMHYSSDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNSGVTLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFMIPFTILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLTLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaatca attattaccc ccacaaacaa agacacataa aaccacagga acctctactc
+       61 aatcataaaa aacacaaatc cactattaaa aattattaac aacacctttg ttgacctacc
+      121 caccccatct aacatctccg ctttatgaaa cttcggatca ttactaggag catgcctcat
+      181 tctacaacta gccacaggaa tcttcttagc tatacactac tcatctgaca tctccacagc
+      241 attctcatca atctctcaca tccaacgaga cgttcaatat ggctgactga ttcgaaatat
+      301 acacgccaac ggcgcttcac tattctttat atgcatctac ctccatatcg gacgaggaat
+      361 ctactacggc tcctacctct acaacaaaac ctgaaattct ggagtaacat tactacttct
+      421 ggtcatagcc accgcattcg tgggctacgt actaccatga ggccaaatat cattctgagg
+      481 ggctacagta atcaccaacc tcctatcagc catcccatac gtaggcccta cacttgtaga
+      541 gtggatctga gggggattct ccgtagacaa cgccaccctg acccgattct tcacattcca
+      601 ctttataatc ccattcacta ttctaggaat aaccatacta cacctcctac tactacacga
+      661 aacaggatca aacaacccaa caggactaaa ctcaaactgt gacaaaatcc cattccaccc
+      721 atacttctct tacaaagacc tactaggcct catcctaata atcacatgcc tactaaccct
+      781 taccctattt tacccaaacc tactaggaga cccagacaac tttacaccag ccaacccact
+      841 aaccacc
+//
+
+LOCUS       KC755190                 841 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Emydura subglobosa worrelli tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755190
+VERSION     KC755190.1  GI:485650124
+KEYWORDS    .
+SOURCE      mitochondrion Emydura subglobosa worrelli
+  ORGANISM  Emydura subglobosa worrelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Emydura.
+REFERENCE   1  (bases 1 to 841)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 841)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..841
+                     /organism="Emydura subglobosa worrelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="worrelli"
+                     /db_xref="taxon:1329794"
+     tRNA            complement(<1..46)
+                     /product="tRNA-Glu"
+     gene            59..>841
+                     /gene="CYTB"
+     CDS             59..>841
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84917.1"
+                     /db_xref="GI:485650125"
+                     /translation="MKNTNPLLKIINNTFIDLPTPSNISTLWNFGSLLGACLILQLAT
+                     GIFLAMHYSSDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYKKTWNTGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMMTLLLTLTLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaataa attatcacct caaaagacac ataaaaccac aggaacccct actcaaccat
+       61 aaaaaacaca aatccactat taaaaatcat taacaacacc tttattgatc tccccacccc
+      121 atctaacatc tctactttat gaaactttgg ttcattacta ggggcatgcc tcattctaca
+      181 actagccaca ggaatcttct tagctataca ctactcatct gatatttcca tagcattctc
+      241 atcaatctcc cacatccaac gagacgttca atatggctga ctaattcgaa atatacacgc
+      301 taacggtgct tcattattct ttatatgcat ttacctccat attggacgag gaatctacta
+      361 cggttcatac ctttacaaga aaacctgaaa cactggagta atattactac tcctagtcat
+      421 agccactgca ttcgtgggct acgtactacc atgaggacaa atatcattct gaggagctac
+      481 agtaatcacc aatctcctat cagccattcc atatgtaggc cctacacttg tagaatgaat
+      541 ttgagggggg ttctccgtag ataacgccac ccttacccga ttctttacat tccacttcct
+      601 aatcccattc gccatcctag gaataactat actacatcta ctactactac atgaaacagg
+      661 atcaaacaac ccaacaggac taaactcaaa ctgtgacaaa atcccattcc acccatattt
+      721 ctcctataaa gatctactag gccttattct aataataaca ctcctactca cccttaccct
+      781 attctaccct aacctactag gagatccaga caactttaca ccagccaacc cactaaccac
+      841 c
+//
+
+LOCUS       KC755189                 843 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Emydura victoriae isolate 27 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755189
+VERSION     KC755189.1  GI:485650122
+KEYWORDS    .
+SOURCE      mitochondrion Emydura victoriae
+  ORGANISM  Emydura victoriae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Emydura.
+REFERENCE   1  (bases 1 to 843)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 843)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..843
+                     /organism="Emydura victoriae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="27"
+                     /db_xref="taxon:578127"
+     tRNA            complement(<1..47)
+                     /product="tRNA-Glu"
+     gene            61..>843
+                     /gene="CYTB"
+     CDS             61..>843
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84916.1"
+                     /db_xref="GI:485650123"
+                     /translation="MKNTNPLLKIINNTFVDLPTPSNISALWNFGSLLGACLILQLAT
+                     GIFLAMHYSSDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTLLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIMCLLTLTLFHPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaatca attattaccc cacaaagaca cataaaacca caggaacccc tactccaacc
+       61 ataaaaaaca caaatccact attaaaaatc attaacaaca ccttcgttga tcttcccacc
+      121 ccatccaaca tctccgcttt atgaaacttc ggatcattac taggagcatg cctcattcta
+      181 caactagcca caggaatctt cttagctata cactactcat ccgacatttc tacagcattc
+      241 tcatcaattt cccacatcca acgagatgtt caatatggat gacttattcg aaatatacac
+      301 gccaacggtg cttcattatt ctttatatgc atctaccttc atattggacg agggatctac
+      361 tacggttcct acctttacaa caaaacctga aacactggag taatattact actcctagtt
+      421 atagccactg cattcgtggg ctacgtgcta ccatgaggcc aaatatcatt ctgaggggct
+      481 acagtaatca ccaacctatt atcagccatt ccatacgtag gcccaacact tgtagagtgg
+      541 atttgaggag ggttctccgt agacaacgct actcttactc gattcttcac atttcacttt
+      601 ctaatcccat tcgccatcct aggaataacc ctactacacc tcctacttct acacgaaaca
+      661 ggatcaaaca acccaacagg actaaactca aactgtgaca aaatcccatt ccacccatat
+      721 ttctcgtata aagacctact aggcctcatc ctaataatta tatgtctact cacccttacc
+      781 ctatttcacc caaacctact aggagatcca gacaacttta caccagccaa tccactaacc
+      841 acc
+//
+
+LOCUS       KC755188                 843 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Emydura victoriae isolate 26 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755188
+VERSION     KC755188.1  GI:485650120
+KEYWORDS    .
+SOURCE      mitochondrion Emydura victoriae
+  ORGANISM  Emydura victoriae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Emydura.
+REFERENCE   1  (bases 1 to 843)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 843)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..843
+                     /organism="Emydura victoriae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="26"
+                     /db_xref="taxon:578127"
+     tRNA            complement(<1..47)
+                     /product="tRNA-Glu"
+     gene            61..>843
+                     /gene="CYTB"
+     CDS             61..>843
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84915.1"
+                     /db_xref="GI:485650121"
+                     /translation="MKNTNPLLKIINNTFVDLPTPSNISALWNFGSLLGACLILQLAT
+                     GIFLAMHYSSDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTLLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIMCLLTLTLFHPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaatca attattaccc cacaaagaca cataaaacca caggaacctc tactccaacc
+       61 ataaaaaaca caaatccact attaaaaatc attaacaaca ccttcgttga tcttcccacc
+      121 ccatccaaca tctccgcttt atgaaacttc ggatcattac taggagcatg cctcattcta
+      181 caactagcca caggaatctt cttagctata cactactcat ccgacatttc tacagcattc
+      241 tcatcaattt cccacatcca acgagatgtt caatatggat gacttattcg aaatatacac
+      301 gccaacggtg cttcattatt ctttatatgc atctaccttc atattggacg agggatctac
+      361 tacggttcct acctttacaa caaaacctga aacactggag taatattact actcctagtt
+      421 atagccactg cattcgtggg ctacgtgcta ccatgaggcc aaatatcatt ctgaggggct
+      481 acagtaatca ccaacctatt atcagccatt ccatacgtag gcccaacact tgtagagtgg
+      541 atttgaggag ggttctccgt agacaacgct actcttactc gattcttcac atttcacttt
+      601 ctaatcccat tcgccatcct aggaataacc ctactacacc tcctacttct acacgaaaca
+      661 ggatcaaaca acccaacagg actaaactca aactgtgaca aaatcccatt ccacccatat
+      721 ttctcgtata aagacctact aggcctcatc ctaataatta tatgtctact cacccttacc
+      781 ctatttcacc caaacctact aggagatcca gacaacttta caccagccaa tccactaacc
+      841 acc
+//
+
+LOCUS       KC755187                 839 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Emydura tanybaraga isolate 25 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755187
+VERSION     KC755187.1  GI:485650118
+KEYWORDS    .
+SOURCE      mitochondrion Emydura tanybaraga
+  ORGANISM  Emydura tanybaraga
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Emydura.
+REFERENCE   1  (bases 1 to 839)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 839)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..839
+                     /organism="Emydura tanybaraga"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="25"
+                     /db_xref="taxon:742145"
+     tRNA            complement(<1..44)
+                     /product="tRNA-Glu"
+     gene            57..>839
+                     /gene="CYTB"
+     CDS             57..>839
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84914.1"
+                     /db_xref="GI:485650119"
+                     /translation="MKNTNPLLKIINNTFIDLPTPPNISALWNFGSLLGACLALQLAT
+                     GIFLAMHYSSDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDSATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITLLLTLTLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaataa attatcccca aaagacacat aaaactacag gaacccctac tcaaccataa
+       61 aaaacacaaa cccactacta aaaatcatta ataatacctt tattgatctc cccactccac
+      121 ctaacatctc cgctttgtga aactttggat cattactagg ggcatgcctc gctctacaac
+      181 tagccacagg aatcttctta gcgatacact actcatccga tatctccata gcattctcat
+      241 caatctccca catccaacga gatgttcaat atggctgact aattcgaaat atacacgcca
+      301 acggtgcttc attattcttt atatgcattt acctccatat tggacgagga atttactacg
+      361 gttcatatct ttacaacaaa acctgaaaca ctggggtaat attactactc ctagtcatag
+      421 ccactgcatt cgtgggatac gtactaccat gaggacaaat atcattctga ggagctacag
+      481 taatcaccaa tctcttatca gccattccat acgtaggccc tacacttgta gagtgaatct
+      541 gagggggatt ctccgtagat agtgctaccc ttactcgatt cttcacattc cactttctaa
+      601 tcccattcgc tatcctaggg ataactatac tacatctact actgctacat gaaacaggat
+      661 caaacaaccc aacaggacta aactcaaact gtgacaaaat cccattccac ccatatttct
+      721 cttataaaga tctactaggc ctcattctga taatcacact tctactcact cttaccctat
+      781 tctaccccaa cctactagga gacccagaca actttacacc agccaaccca ctaaccacc
+//
+
+LOCUS       KC755186                 839 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Emydura tanybaraga isolate 24 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755186
+VERSION     KC755186.1  GI:485650116
+KEYWORDS    .
+SOURCE      mitochondrion Emydura tanybaraga
+  ORGANISM  Emydura tanybaraga
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Emydura.
+REFERENCE   1  (bases 1 to 839)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 839)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..839
+                     /organism="Emydura tanybaraga"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="24"
+                     /db_xref="taxon:742145"
+     tRNA            complement(<1..44)
+                     /product="tRNA-Glu"
+     gene            57..>839
+                     /gene="CYTB"
+     CDS             57..>839
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84913.1"
+                     /db_xref="GI:485650117"
+                     /translation="MKNTNPLLKIINNTFIDLPTPPNISALWNFGSLLGACLALQLAT
+                     GIFLAMHYSSDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDSATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITLLLTLTLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaataa attatcccca aaagacacat aaaactacag gaacccctac tcaaccataa
+       61 aaaacacaaa cccactatta aaaatcatta ataatacctt tattgacctc cccactccac
+      121 ctaacatctc cgctttgtga aactttggat cattactagg ggcatgcctc gctctacaac
+      181 tagccacagg aatcttctta gcgatacact actcatccga tatctccata gcattctcat
+      241 caatctccca catccaacga gatgttcaat atggctgact aattcgaaat atacacgcca
+      301 acggtgcttc attattcttt atatgcattt acctccatat tggacgagga atttactacg
+      361 gttcatatct ttacaacaaa acctgaaaca ctggggtaat attactactc ctagtcatag
+      421 ccactgcatt cgtgggatac gtactaccat gaggacaaat atcattctga ggagctacag
+      481 taatcaccaa tctattatca gccattccat acgtaggccc tacacttgta gagtgaatct
+      541 gagggggatt ctccgtagat agtgctaccc ttactcgatt cttcacattc cactttctaa
+      601 tcccattcgc tatcctaggg ataactatac tacatctact attgctacat gaaacaggat
+      661 caaacaaccc aacaggacta aactcaaact gtgacaaaat cccattccac ccatatttct
+      721 cttataaaga tctactaggc ctcattctga taatcacact tctactcact cttaccctat
+      781 tctaccccaa cctactagga gacccagaca actttacacc agccaaccca ctaaccacc
+//
+
+LOCUS       KC755185                 842 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Emydura subglobosa isolate 6 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755185
+VERSION     KC755185.1  GI:485650114
+KEYWORDS    .
+SOURCE      mitochondrion Emydura subglobosa
+  ORGANISM  Emydura subglobosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Emydura.
+REFERENCE   1  (bases 1 to 842)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 842)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..842
+                     /organism="Emydura subglobosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="6"
+                     /db_xref="taxon:251359"
+     tRNA            complement(<1..46)
+                     /product="tRNA-Glu"
+     gene            60..>842
+                     /gene="CYTB"
+     CDS             60..>842
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84912.1"
+                     /db_xref="GI:485650115"
+                     /translation="MKNTNPLLKIINNTFIDLPTPSNISALWNFGSLLGACLILQLAT
+                     GIFLAMHYSSDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYKKTWNTGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITLLLTLTLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaataa attaccaccc caaaagacac ataaaaccac aggaacccct accccaacca
+       61 taaaaaacac aaatccacta ttaaaaatca ttaacaatac cttcattgac ctccccaccc
+      121 catctaacat ctccgctcta tgaaactttg ggtcattact aggggcatgc cttattctac
+      181 aactagccac aggaatcttc ttagctatac actactcatc cgacatttcc atagcattct
+      241 catcaatctc ccacatccaa cgagacgttc aatatggctg actaattcga aatatacacg
+      301 ctaacggtgc ttcattattc tttatatgca tttacctcca tattgggcga ggaatttact
+      361 acggttcata cctttacaag aaaacttgaa acactggagt aatattacta ctcctagtaa
+      421 tagccactgc attcgtgggc tacgtactac catgaggaca aatatcattc tgaggggcta
+      481 cagtaatcac taatcttcta tcagccattc catatgtagg ccctacactt gtagaatgaa
+      541 tttgaggagg attctccgta gataacgcca cccttacccg attctttaca ttccactttc
+      601 taatcccatt cgccatcctg ggaataacta tactacatct actactacta catgaaacag
+      661 gatcaaataa cccaacagga ctaaactcaa actgtgacaa aatcccattc cacccatatt
+      721 tctcttataa agacctacta ggccttattc taataatcac actcctactc acccttaccc
+      781 tgttctaccc caacctacta ggagacccag acaactttac accagccaac ccactgacca
+      841 cc
+//
+
+LOCUS       KC755184                 842 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Emydura subglobosa isolate 5 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755184
+VERSION     KC755184.1  GI:485650112
+KEYWORDS    .
+SOURCE      mitochondrion Emydura subglobosa
+  ORGANISM  Emydura subglobosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Emydura.
+REFERENCE   1  (bases 1 to 842)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 842)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..842
+                     /organism="Emydura subglobosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="5"
+                     /db_xref="taxon:251359"
+     tRNA            complement(<1..46)
+                     /product="tRNA-Glu"
+     gene            60..>842
+                     /gene="CYTB"
+     CDS             60..>842
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84911.1"
+                     /db_xref="GI:485650113"
+                     /translation="MKNTNPLLKIINNTFIDLPTPPNISALWNFGSLLGACLALQLAT
+                     GIFLAMHYSSDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDSATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITLLLTLTLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaataa attacctccc caaaagacac ataaaactac aggaacccct acctcaacca
+       61 taaaaaacac aaacccacta ttaaaaatca ttaataatac ctttattgat ctccccactc
+      121 cacctaacat ctccgctttg tgaaactttg gatcattact aggggcatgc ctcgctctac
+      181 aactagccac aggaatcttc ttagcgatac actactcatc tgatatctcc atagcattct
+      241 catcaatctc ccacatccaa cgagatgttc aatatggctg actaattcga aatatacacg
+      301 ccaacggtgc ttcattattc tttatatgca tttacctcca tattggacga ggaatttact
+      361 acggttcata cctttacaac aaaacctgaa acactggggt aatattacta ctcctagtca
+      421 tagccactgc attcgtggga tacgtactac catgaggaca aatatcattc tgaggagcta
+      481 cagtaatcac caacctctta tcagccattc catacgtagg ccctacactt gtagagtgaa
+      541 tctgaggggg attctccgta gatagtgcta cccttactcg attcttcaca ttccactttc
+      601 taatcccatt cgctatccta gggataacta tactacatct actactgcta catgaaacag
+      661 gatcaaacaa cccaacagga ctaaactcaa actgtgacaa aatcccattc cacccatatt
+      721 tctcttataa agatctacta ggcctcattc tgataatcac acttctactc actcttaccc
+      781 tattctaccc caacctacta ggagacccag acaactttac accagccaac ccactaacca
+      841 cc
+//
+
+LOCUS       KC755183                 842 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Emydura macquarii tRNA-Glu gene, partial sequence; and cytochrome b
+            (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755183
+VERSION     KC755183.1  GI:485650110
+KEYWORDS    .
+SOURCE      mitochondrion Emydura macquarii (Murray river turtle)
+  ORGANISM  Emydura macquarii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Emydura.
+REFERENCE   1  (bases 1 to 842)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 842)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..842
+                     /organism="Emydura macquarii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:90392"
+     tRNA            complement(<1..46)
+                     /product="tRNA-Glu"
+     gene            60..>842
+                     /gene="CYTB"
+     CDS             60..>842
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84910.1"
+                     /db_xref="GI:485650111"
+                     /translation="MKNTNPLLKIINNTFVDLPTPSNISALWNFGSLLGACLILQLAT
+                     GIFLAMHYSSDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTLLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIMCLLTLTLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaatca attattaccc acaaagacac ataaaaccac aggaacctct actccaacca
+       61 taaaaaacac aaatccacta ttaaaaatca ttaataacac ctttgttgat cttcccaccc
+      121 catccaatat ctccgcctta tgaaacttcg gatcattact aggggcatgc ctcattctac
+      181 aactagccac aggaattttc ttagccatac actactcatc cgacatttct acagcattct
+      241 catcaatttc ccacatccaa cgagatgttc aatatggatg acttattcga aatatacacg
+      301 ccaacggtgc ttcattattc tttatatgca tctaccttca tattggacga ggaatctatt
+      361 acggttccta cctttacaat aaaacctgaa acactggagt aatattacta ctactagtca
+      421 tagccactgc attcgtaggc tacgtactac catgaggcca aatatcattc tgaggggcta
+      481 cagtaatcac caacctatta tcagccatcc catacgtagg cccaacactt gtagagtgaa
+      541 tttgaggagg gttctccgta gacaacgcca cccttactcg attcttcaca tttcactttc
+      601 taatcccatt cgccatccta ggaataaccc tactacacct cctacttcta cacgaaacag
+      661 gatcaaataa cccaacagga ctaaactcaa actgtgacaa aatcccattc cacccatatt
+      721 tctcgtataa agacctacta ggactcatcc taataatcat atgtctactt accctcaccc
+      781 tattttaccc aaacctacta ggagatccag acaactttac accagccaat ccactaacca
+      841 ct
+//
+
+LOCUS       KC755182                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys novaeguineae isolate 57 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755182
+VERSION     KC755182.1  GI:485650108
+KEYWORDS    .
+SOURCE      mitochondrion Elseya novaeguineae (New Guinea snapping turtle)
+  ORGANISM  Elseya novaeguineae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya novaeguineae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="57"
+                     /db_xref="taxon:904238"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84909.1"
+                     /db_xref="GI:485650109"
+                     /translation="MKNMNPLLKIINKTFINLPTPSNISSLWNFGSLLGACLILQLAT
+                     GIFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIMCLLTLVLFYPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaacca atcactatcc aactaaagaa cacataaaac cacaggaacc actacccaaa
+       61 ccataaaaaa cataaatcca ctattaaaaa ttatcaacaa aacctttatc aacctaccca
+      121 ccccatctaa catttcctct ttatgaaact tcggatcatt actaggggca tgccttattc
+      181 ttcaactagc cacaggaatc ttcctagcca tacactactc acctgacatc tccatagcct
+      241 tctcatcaat ttcccacatc caacgagacg tccaatacgg atgactaatt cgaaacatgc
+      301 acgccaacgg cgcctcacta ttttttatgt gtatttacct tcacatcgga cgaggaatct
+      361 actacggctc ctacctttac aacaaaactt gaaacacagg agtaatatta ctgttcctag
+      421 taatagccac tgcattcgta ggctatgtat taccatgagg acagatatca ttctgagggg
+      481 ctacagtaat caccaacctt ctatcagcta ttccatatgt aggtcccaca cttgtagaat
+      541 gaatctgagg ggggttctct gtagacaacg ccaccctaac ccgattcttc acattccact
+      601 ttctaatccc atttgccatc ctaggaataa ccatactaca cctcctacta ttacacgaaa
+      661 caggatcaaa caacccaaca ggattaaact caaactgtga caaaatccca ttccacccct
+      721 acttttccta caaagatcta ctaggcctca ttctaataat catgtgtcta ctcactctag
+      781 tcctattcta cccaaaccta ctaggagacc cagacaattt tacaccagcg aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755181                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys novaeguineae isolate 56 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755181
+VERSION     KC755181.1  GI:485650106
+KEYWORDS    .
+SOURCE      mitochondrion Elseya novaeguineae (New Guinea snapping turtle)
+  ORGANISM  Elseya novaeguineae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya novaeguineae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="56"
+                     /db_xref="taxon:904238"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84908.1"
+                     /db_xref="GI:485650107"
+                     /translation="MKNMNPLLKIINKTFINLPTPSNISSLWNFGSLLGACLILQLAT
+                     GIFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIMCLLTLVLFYPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaacca atcactatcc aactaaagaa cacataaaac cacaggaacc actacccaaa
+       61 ccataaaaaa cataaatcca ctattaaaaa ttatcaacaa aacctttatc aacctaccca
+      121 ccccatctaa catttcctct ttatgaaact tcggatcatt actaggggca tgccttattc
+      181 ttcaactagc cacaggaatc ttcctagcca tacactactc acctgacatc tccatagcct
+      241 tctcatcaat ttcccacatc caacgagacg tccaatacgg atgactaatt cgaaacatgc
+      301 acgccaacgg cgcctcacta tttttcatgt gtatttacct tcacatcgga cgaggaatct
+      361 actacggctc ctacctttac aacaaaactt gaaacacagg agtaatatta ctgttcctag
+      421 taatagccac tgcattcgta ggctatgtat taccatgagg acagatatca ttctgagggg
+      481 ctacagtaat caccaacctt ctatcagcta ttccatatgt aggtcccaca cttgtagaat
+      541 gaatctgagg ggggttctct gtagacaacg ccaccctaac ccgattcttc acattccact
+      601 ttctaatccc atttgccatc ctaggaataa ccatactaca cctcctacta ttacacgaaa
+      661 caggatcaaa caacccaaca ggattaaact caaactgtga caaaatccca ttccacccct
+      721 acttttccta caaagatcta ctaggcctca ttctaataat catgtgtcta ctcactctag
+      781 tcctattcta cccaaaccta ctaggagacc cagacaattt tacaccagcg aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755180                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys novaeguineae isolate 46 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755180
+VERSION     KC755180.1  GI:485650104
+KEYWORDS    .
+SOURCE      mitochondrion Elseya novaeguineae (New Guinea snapping turtle)
+  ORGANISM  Elseya novaeguineae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya novaeguineae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="46"
+                     /db_xref="taxon:904238"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84907.1"
+                     /db_xref="GI:485650105"
+                     /translation="MKNTNPLLKIINSTFINLPTPSNISSLWNFGSLLGVCLIIQLAT
+                     GIFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     VWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLVLFYPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaatca accactatac aactaaaaga cacataaaac cacaggaacc actaccccaa
+       61 ccataaaaaa cacaaatcca ctattaaaaa tcatcaacag cacctttatt aacctaccca
+      121 ccccgtctaa tatttcatct ttatgaaact tcggatcatt actaggagtg tgccttatta
+      181 ttcaactagc cacaggaatc ttcctagcca tacactattc acctgacatc tccatagcct
+      241 tctcatcaat ctctcacatc caacgagacg tccagtacgg atgactaatt cgaaatatgc
+      301 atgccaacgg cgcctcacta ttttttatat gtatctacct tcacatcgga cgagggatct
+      361 actacggctc ttacctttac aacaaaacct gaaacacagg agtaatatta ctattcctag
+      421 tcatagccac tgcattcgta ggatacgtat taccatgagg acagatatcg ttctgaggag
+      481 ccacagtaat caccaacctt ctatcagcta ttccatacgt aggccctaca ctcgtagaat
+      541 gagtctgagg ggggttctct gtagacaacg ctaccctaac ccgattcttc acattccact
+      601 ttctaatccc attcgccatc ctaggaataa ccatgctaca cctcctacta ctacacgaaa
+      661 caggatcaaa taacccaaca ggattaaact caaactgtga caaaatccct ttccatccct
+      721 acttctccta taaagatcta ctaggcctca tcctaataat cacatgccta ctcactctag
+      781 tcctattcta cccaaactta ctaggagacc cagacaattt cacaccagcg aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755179                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys novaeguineae isolate 45 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755179
+VERSION     KC755179.1  GI:485650102
+KEYWORDS    .
+SOURCE      mitochondrion Elseya novaeguineae (New Guinea snapping turtle)
+  ORGANISM  Elseya novaeguineae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya novaeguineae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="45"
+                     /db_xref="taxon:904238"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84906.1"
+                     /db_xref="GI:485650103"
+                     /translation="MKNTNPLLKIINSTFINLPTPSNISSLWNFGSLLGVCLIIQLAT
+                     GIFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     VWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLVLFYPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaatca accactatac aactaaaaga cacataaaac cacaggaacc actaccccaa
+       61 ccataaaaaa cacaaatcca ctattaaaaa tcatcaacag cacctttatt aacctaccca
+      121 ccccgtctaa tatttcatct ttatgaaact tcggatcatt actaggagtg tgccttatta
+      181 ttcaactagc cacaggaatc ttcctagcca tacactattc acctgacatc tccatagcct
+      241 tctcatcaat ctctcacatc caacgagacg tccagtacgg atgactaatt cgaaatatgc
+      301 atgccaatgg cgcctcacta ttttttatat gtatctacct tcacatcgga cgagggatct
+      361 actacggctc ttacctttac aacaaaacct gaaacacagg agtaatatta ctattcctag
+      421 tcatagccac tgcattcgta ggatacgtat taccatgagg acagatatcg ttctgaggag
+      481 ccacagtaat caccaacctt ctatcagcta ttccatacgt aggccctaca ctcgtagaat
+      541 gagtctgagg ggggttctct gtagacaacg ctaccctaac ccgattcttc acattccact
+      601 ttctaatccc attcgccatc ctaggaataa ccatgctaca cctcctacta ctacacgaaa
+      661 caggatcaaa taacccaaca ggattaaact caaactgtga caaaatccct ttccatccct
+      721 acttctccta taaagatcta ctaggcctca tcctaataat cacatgccta ctcactctag
+      781 tcctattcta cccaaactta ctaggagacc cagacaattt cacaccagcg aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755178                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys novaeguineae isolate 44 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755178
+VERSION     KC755178.1  GI:485650100
+KEYWORDS    .
+SOURCE      mitochondrion Elseya novaeguineae (New Guinea snapping turtle)
+  ORGANISM  Elseya novaeguineae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya novaeguineae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="44"
+                     /db_xref="taxon:904238"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84905.1"
+                     /db_xref="GI:485650101"
+                     /translation="MKNTNPLLKIINNTLINLPTPSNISSLWNFGSLLGACLIMQLAT
+                     GVFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGPTLVEW
+                     VWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLALFYPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaatca atcattatcc aactaaagaa cacataaaac cacaggaacc accaccaaaa
+       61 ctataaaaaa cacaaatcca ctattaaaaa ttatcaacaa caccttaatc aacctaccca
+      121 ccccatctaa tatttcctct ttatgaaact tcggatcatt acttggagca tgccttatta
+      181 tacaactagc cacaggagta ttcctagcca tacattactc acctgatatc tccatagcct
+      241 tctcatcaat ctcccacatc caacgagacg tccaatacgg gtgactaatt cggaatatac
+      301 acgccaacgg cgcctcacta ttttttatat gcatctacct tcacatcgga cggggaatct
+      361 actacggctc ttacctttac aacaaaactt gaaacacagg agtaatatta ctgttcctag
+      421 tcatagccac tgcattcgta ggctacgtat taccatgagg acagatatca ttctgagggg
+      481 ctacagtaat caccaacctc ctatcagcta ttccatacat aggccccaca cttgtagaat
+      541 gagtctgagg gggattctcc gtagacaacg ctactctaac ccgattcttc acattccact
+      601 ttctaatccc attcgccatc ctaggaataa caatactaca cctcctactc ctacacgaaa
+      661 caggatcaaa caacccaaca ggattaaact caaactgcga caaaatccca ttccacccct
+      721 acttctccta taaagaccta ctcggcctca ttctaatgat cacatgccta ctcactctag
+      781 ccctattcta cccaaaccta ctaggagacc cagacaattt cacaccagca aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755177                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys novaeguineae isolate 43 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755177
+VERSION     KC755177.1  GI:485650098
+KEYWORDS    .
+SOURCE      mitochondrion Elseya novaeguineae (New Guinea snapping turtle)
+  ORGANISM  Elseya novaeguineae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya novaeguineae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="43"
+                     /db_xref="taxon:904238"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84904.1"
+                     /db_xref="GI:485650099"
+                     /translation="MKNTNPLLKIINNTLINLPTPSNISSLWNFGSLLGACLIMQLAT
+                     GVFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLALFYPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaatca atcattatcc aactaaagaa cacataaaac cacaggaacc accaccaaaa
+       61 ctataaaaaa cacaaatcca ctattaaaaa ttatcaacaa caccttaatc aacctaccca
+      121 ccccatctaa tatttcctct ttatgaaact tcggatcatt acttggagca tgccttatta
+      181 tacaactagc cacaggagta ttcctagcca tacattactc acctgatatc tccatagcct
+      241 tctcatcaat ctcccacatc caacgagacg tccaatacgg gtgactaatt cggaatatac
+      301 acgccaacgg cgcctcacta ttttttatat gcatctacct tcacatcgga cggggaatct
+      361 actacggctc ttacctttac aacaaaactt gaaacacagg agtaatatta ctgttcctag
+      421 tcatagccac tgcattcgta ggctacgtat taccatgagg acagatatca ttctgagggg
+      481 ctacagtaat caccaacctc ctatcagcta ttccatacat aggccccaca cttgtagaat
+      541 gaatctgagg gggattctcc gtagacaacg ctactctaac ccgattcttc acattccact
+      601 ttctaatccc attcgccatc ctaggaataa caatactaca cctcctactc ctacacgaaa
+      661 caggatcaaa caacccaaca ggattaaact caaactgcga caaaatccca ttccacccct
+      721 acttctccta taaagaccta ctcggcctca ttctaatgat cacatgccta ctcactctag
+      781 ccctattcta cccaaaccta ctaggagacc cagacaattt cacaccagca aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755176                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys novaeguineae isolate 41 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755176
+VERSION     KC755176.1  GI:485650096
+KEYWORDS    .
+SOURCE      mitochondrion Elseya novaeguineae (New Guinea snapping turtle)
+  ORGANISM  Elseya novaeguineae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya novaeguineae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="41"
+                     /db_xref="taxon:904238"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84903.1"
+                     /db_xref="GI:485650097"
+                     /translation="MKNMNPLLKIINKTFINLPTPSNISSLWNFGSLLGACLIIQLAT
+                     GIFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIMCLLTLVLFHPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaatca atcactatcc aactaaagaa cacataaaac cacaggaacc actacccaaa
+       61 ccataaaaaa cataaatcca ctattaaaaa ttatcaacaa aacctttatc aacctaccca
+      121 ccccatctaa catctcctca ttatgaaact tcggatcatt actaggggca tgccttatta
+      181 ttcaactagc cacaggaatc ttcctagcca tacattactc acctgacatc tccatagcct
+      241 tctcatcaat ttcccacatc caacgagacg tccaatacgg atgactaatt cgaaacatgc
+      301 acgccaacgg tgcctcacta ttctttatat gtatttacct tcacatcgga cgaggaatct
+      361 actacggctc ctacctttac aacaaaactt gaaacacagg agtaatatta ctgttcctag
+      421 taatagccac tgcattcgta ggctatgtat taccatgagg acagatatca ttctgaggag
+      481 ctacagtaat caccaacctt ctatcagcta ttccatatgt aggccccaca cttgtagaat
+      541 gaatctgagg ggggttctct gtagacaacg ccaccctaac ccgattcttc acattccact
+      601 ttctaatccc atttgccatc ctaggaataa ccatactaca cctcctacta ttacacgaaa
+      661 caggatcaaa caacccaaca ggattaaact caaactgtga caaaatccca ttccacccct
+      721 acttttccta caaagatcta ctcggcctca ttctaataat catatgttta ctcactctag
+      781 tcctattcca cccaaaccta ctgggagacc cagacaattt tacaccagcg aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755175                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Myuchelys novaeguineae isolate 40 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755175
+VERSION     KC755175.1  GI:485650094
+KEYWORDS    .
+SOURCE      mitochondrion Elseya novaeguineae (New Guinea snapping turtle)
+  ORGANISM  Elseya novaeguineae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya novaeguineae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="40"
+                     /db_xref="taxon:904238"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84902.1"
+                     /db_xref="GI:485650095"
+                     /translation="MKNMNPLLKIINKTFINLPTPSNISSLWNFGSLLGACLIIQLAT
+                     GIFLAMHYSPDISMAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMIMCLLTLVLFHPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaatca atcactatcc aactaaagaa cacataaaac cacaggaacc actacccaaa
+       61 ccataaaaaa cataaatcca ctattaaaaa ttatcaacaa aacctttatc aacctaccca
+      121 ccccatctaa catctcctca ttatgaaact tcggatcatt actaggggca tgccttatta
+      181 ttcaactagc cacaggaatc ttcctagcca tacattactc acctgacatc tccatagcct
+      241 tctcatcaat ttcccacatc caacgagacg tccaatacgg atgactaatt cgaaacatgc
+      301 acgccaacgg tgcctcacta ttctttatat gtatttacct tcacatcgga cgaggaatct
+      361 actacggctc ctacctttac aacaaaactt gaaacacagg agtaatatta ctgttcctag
+      421 taatagccac tgcattcgta ggctatgtat taccatgagg acagatatca ttctgaggag
+      481 ctacagtaat caccaacctt ctatcagcta ttccatatgt aggccccaca cttgtagaat
+      541 gaatctgagg ggggttctct gtagacaacg ccaccctaac ccgattcttc acattccact
+      601 ttctaatccc atttgccatc ctaggaataa ccatactaca cctcctacta ttacacgaaa
+      661 caggatcaaa caacccaaca ggattaaact caaactgtga caaaatccca ttccacccct
+      721 acttttccta caaagatcta ctcggcctca ttctaataat catatgttta ctcactctag
+      781 tcctattcca cccaaaccta ctgggagacc cagacaattt tacaccagcg aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755174                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Elseya lavarackorum tRNA-Glu gene, partial sequence; and cytochrome
+            b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755174
+VERSION     KC755174.1  GI:485650092
+KEYWORDS    .
+SOURCE      mitochondrion Elseya lavarackorum
+  ORGANISM  Elseya lavarackorum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya lavarackorum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:321138"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84901.1"
+                     /db_xref="GI:485650093"
+                     /translation="MKNTNPLLKIINNTLINLPTPPNISSLWNFGSLLGACLILQLAT
+                     GIFLAMHYSPDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYLGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLVLFYPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaataa atcactatac aactaaagga cacataaaac cacaggaact accatccaaa
+       61 ccataaaaaa cacaaatcca ctactaaaaa ttatcaacaa caccttaatc aacctaccca
+      121 ctccccccaa tatttcatcc ttatgaaatt tcggatcatt actaggagca tgtctcatcc
+      181 tacaactagc cacaggaatc ttcctagcca tacactactc acccgacatc tccacagcat
+      241 tctcatcaat ctcacacatc caacgggacg tccaatacgg atgactaatc cgaaatatac
+      301 acgccaacgg cgcctcacta ttctttatgt gtatctacct tcacattgga cggggaatct
+      361 actacggctc ctatctctac aacaaaactt gaaacacagg agtaatatta ctattcctag
+      421 tcatagccac tgcattcgta ggctacgtgt taccatgggg acagatatca ttctgagggg
+      481 ccacagtaat caccaacctt ttatcagcca ttccatacct aggccccaca ctcgtagaat
+      541 gaatctgagg gggattctcc gtagacaacg ccaccctaac ccgattcttc acattccact
+      601 ttctaatccc attcgccatc ctaggaataa ccatactaca cctcctacta ctacacgaaa
+      661 caggatcaaa taacccaaca ggactaaact caaactgtga caaaatccca ttccacccct
+      721 acttctccta taaagatcta ctaggcctca ttctaataat tacatgcctg ctcactctgg
+      781 tcctattcta cccaaaccta ctaggagacc cagacaactt cacaccagca aacccgctaa
+      841 tcacc
+//
+
+LOCUS       KC755173                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Elseya irwini tRNA-Glu gene, partial sequence; and cytochrome b
+            (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755173
+VERSION     KC755173.1  GI:485650090
+KEYWORDS    .
+SOURCE      mitochondrion Elseya irwini
+  ORGANISM  Elseya irwini
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya irwini"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:321139"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84900.1"
+                     /db_xref="GI:485650091"
+                     /translation="MKNTNPLLKIINNTLINLPTPPNISSLWNFGSLLGACLILQLAT
+                     GIFLAMHYSPDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLVLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaataa atcactacac aactaaagga cacataaaac cacaggaacc actacccaaa
+       61 ccataaaaaa cacaaatcca ctactaaaaa ttatcaacaa caccttaatc aacctaccca
+      121 ccccccccaa tatttcatct ttatgaaatt tcggatcatt actaggagca tgcctcattc
+      181 tacaactagc cacaggaatc ttcctagcca tacactactc acccgacatc tccacagcat
+      241 tctcatcaat ctcacacatt caacgggacg tccaatacgg atgactaatc cgaaatatac
+      301 acgccaacgg cgcctcacta ttctttatgt gtatctacct tcacattgga cggggaatct
+      361 actacggctc ctatctctac aacaaaactt gaaacacagg agtaatatta ctgttcctag
+      421 tcatagccac tgcattcgta ggctacgtat taccatgggg acagatatca ttctgaggag
+      481 ccacagtaat caccaacctt ttatcagcca ttccatacgt aggccccaca cttgtagagt
+      541 gaatctgagg gggattctct gtagacaacg ccaccctaac ccgattcttc acattccatt
+      601 ttctaatccc attcgccatc ctaggaataa ccatactaca cctcctatta ctacacgaaa
+      661 caggatcaaa taacccaaca ggactaaact caaactgtga caaaattcca ttccacccct
+      721 acttctccta taaagatcta ctaggtctca ttctaataat tacatgcctg ctcactctgg
+      781 tcctattcta cccaaaccta ctaggagacc cagacaactt cacaccagcg aacccactaa
+      841 ccacc
+//
+
+LOCUS       KC755172                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Elseya dentata isolate 20 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755172
+VERSION     KC755172.1  GI:485650088
+KEYWORDS    .
+SOURCE      mitochondrion Elseya dentata
+  ORGANISM  Elseya dentata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya dentata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="20"
+                     /db_xref="taxon:44497"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84899.1"
+                     /db_xref="GI:485650089"
+                     /translation="MKNTNPLLKIINNTLINLPTPPNISSLWNFGSLLGACLILQLTT
+                     GIFLAMHYSPDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPALVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLVLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaataa atcactacac aactaaagga cacataaaac cacaggaacc actacccaaa
+       61 ccataaaaaa cacaaatcca ctactaaaaa ttatcaacaa caccttaatc aacctaccca
+      121 ccccccccaa tatttcatct ttatgaaatt tcggatcatt actaggagca tgcctcattc
+      181 tacaactaac cacaggaatc ttcctagcca tacactactc acccgacatc tccacagcat
+      241 tctcatcaat ctcacacatt caacgggacg tccaatacgg atgactaatc cgaaatatac
+      301 acgccaacgg cgcctcacta ttctttatgt gtatctacct tcacattgga cggggaatct
+      361 actacggctc ctatctctac aacaaaactt gaaacacagg ggtaatatta ctgttcctag
+      421 tcatagccac tgcattcgta ggctacgtat taccatgggg acagatatca ttctgaggag
+      481 ccacagtaat caccaacctt ttatcagcca ttccatacgt aggccccgca cttgtagagt
+      541 gaatctgagg gggattctct gtagacaacg ccaccctaac ccgattcttc acattccatt
+      601 ttctaatccc attcgccatc ctaggaataa ccatactaca cctcctatta ctacacgaaa
+      661 caggatcaaa taacccaaca ggactaaact caaactgtga caaaattcca ttccacccct
+      721 acttctccta taaagaccta ctaggtctca ttctaataat tacatgcctg ctcactctgg
+      781 tcctattcta cccaaaccta ctaggagacc cagacaactt cacaccagcg aacccactaa
+      841 ccacc
+//
+
+LOCUS       KC755171                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Elseya dentata isolate 19 tRNA-Glu gene, partial sequence; and
+            cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755171
+VERSION     KC755171.1  GI:485650086
+KEYWORDS    .
+SOURCE      mitochondrion Elseya dentata
+  ORGANISM  Elseya dentata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya dentata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="19"
+                     /db_xref="taxon:44497"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84898.1"
+                     /db_xref="GI:485650087"
+                     /translation="MKNTNPLLKIINNTLINLPTPPNISSLWNFGSLLGACLILQLTT
+                     GIFLAMHYSPDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPALVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFAILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLVLFYPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaatca atcactacac aactaaagga cacataaaac cacaggaacc actacccaaa
+       61 ccataaaaaa cacaaatcca ctactaaaaa ttatcaacaa caccttaatc aacctaccca
+      121 ccccccccaa tatttcatct ttatgaaatt tcggatcatt actaggagca tgcctcattc
+      181 tacaactaac cacaggaatc ttcctagcca tacactactc acccgacatc tccacagcat
+      241 tctcatcaat ctcacacatt caacgggacg tccaatacgg atgactaatc cgaaatatac
+      301 acgccaacgg cgcctcacta ttctttatgt gtatctacct tcacattgga cggggaatct
+      361 actacggctc ctatctctac aacaaaactt gaaacacagg ggtaatatta ctgttcctag
+      421 tcatagccac tgcattcgta ggctacgtat taccatgggg acagatatca ttctgaggag
+      481 ccacagtaat caccaacctt ttatcagcca ttccatacgt aggccccgca cttgtagagt
+      541 gaatctgagg gggattctct gtagacaacg ccaccctaac ccgattcttc acattccatt
+      601 ttctaatccc attcgccatc ctaggaataa ccatactaca cctcctatta ctacacgaaa
+      661 caggatcaaa taacccaaca ggactaaact caaactgtga caaaattcca ttccacccct
+      721 acttctccta taaagaccta ctaggtctca ttctaataat tacatgcctg ctcactctgg
+      781 tcctattcta cccaaaccta ctaggagacc cagacaactt cacaccagcg aacccactaa
+      841 ccacc
+//
+
+LOCUS       KC755170                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Elseya branderhorsti isolate 18 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755170
+VERSION     KC755170.1  GI:485650084
+KEYWORDS    .
+SOURCE      mitochondrion Elseya branderhorsti (New Guinea snapping turtle)
+  ORGANISM  Elseya branderhorsti
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya branderhorsti"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="18"
+                     /db_xref="taxon:904186"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84897.1"
+                     /db_xref="GI:485650085"
+                     /translation="MKNTNPLLKIINNTLIDLPTPSNISALWNFGSLLGACLILQLAT
+                     GIFLAMHYSPDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFIILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLALFYPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaatca accaccatcc aactaaagga cacataaaac cacaggaatc atcaccaaaa
+       61 tcataaaaaa cacaaaccca ctattaaaga ttatcaacaa caccttaatc gatctgccca
+      121 ccccatccaa catttccgct ttatgaaatt tcggatcatt actgggagca tgcctcattc
+      181 tacaactagc cacaggaatc ttcctagcca tacactactc acctgacatc tccacagcct
+      241 tctcatcaat ctcccacatc caacgagacg tccaatacgg atgactaatc cgaaatatac
+      301 acgccaacgg cgcctcacta tttttcatat gtatttacct ccacatcgga cgaggaatct
+      361 actacggctc ctacctttac aacaaaacct gaaacacagg agtaatacta ctattcctag
+      421 tcatagccac tgcattcgta ggctacgtat taccatgagg acaaatatca ttctgagggg
+      481 ctacagtaat cactaacctt ctatcagcta ttccatacgt aggccccaca ctcgtagaat
+      541 gaatctgagg ggggttctct gtagacaatg ccaccctaac ccgattcttc acattccatt
+      601 ttctaatccc attcatcatc ctaggaataa ccatactaca cctcctactt ctacacgaaa
+      661 caggatcaaa caacccaaca ggattaaatt caaactgtga taaaatccca ttccaccctt
+      721 acttctccta taaagaccta ctaggcctca ttctaataat cacatgccta ctcaccctag
+      781 ccctatttta cccaaaccta ctaggagacc cagacaactt tacaccagcg aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755169                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Elseya branderhorsti isolate 17 tRNA-Glu gene, partial sequence;
+            and cytochrome b (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755169
+VERSION     KC755169.1  GI:485650082
+KEYWORDS    .
+SOURCE      mitochondrion Elseya branderhorsti (New Guinea snapping turtle)
+  ORGANISM  Elseya branderhorsti
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya branderhorsti"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="17"
+                     /db_xref="taxon:904186"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84896.1"
+                     /db_xref="GI:485650083"
+                     /translation="MKNTNPLLKIINNTLIDLPTPSNISALWNFGSLLGACLILQLAT
+                     GIFLAMHYSPDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFIILGMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLILMITCLLTLALFYPNLLGDPDNFTPANPLIT"
+ORIGIN      
+        1 ggaacaatca accaccatcc aactaaagga cacataaaac cacaggaatc atcaccaaaa
+       61 tcataaaaaa cacaaaccca ctattaaaga ttatcaacaa caccttaatc gatctgccca
+      121 ccccatccaa catttccgct ttatgaaatt tcggatcatt actgggagca tgcctcattc
+      181 tacaactagc cacaggaatc ttcctagcca tacactactc acctgacatc tccacagcct
+      241 tctcatcaat ctcccacatc caacgagacg tccaatacgg atgactaatc cgaaatatac
+      301 acgccaacgg cgcctcacta tttttcatat gtatttacct ccacatcgga cgaggaatct
+      361 actacggctc ctacctttac aacaaaacct gaaacacagg agtaatacta ctattcctag
+      421 tcatagccac tgcattcgta ggctacgtat taccatgagg acaaatatca ttctgagggg
+      481 ctacagtaat cactaacctt ctatcagcta ttccatacgt aggccccaca ctcgtagaat
+      541 gaatctgagg ggggttctct gtagacaatg ccaccctaac ccgattcttc acattccatt
+      601 ttctaatccc attcatcatc ctaggaataa ccatactaca cctcctactt ctacacgaaa
+      661 caggatcaaa caacccaaca ggattaaatt caaactgtga taaaatccca ttccaccctt
+      721 acttctccta taaagaccta ctaggcctca ttctaataat cacatgccta ctcaccctag
+      781 ccctatttta cccaaaccta ctaggagacc cagacaactt tacaccagcg aacccactaa
+      841 tcacc
+//
+
+LOCUS       KC755168                 845 bp    DNA     linear   VRT 07-MAY-2013
+DEFINITION  Elseya albagula tRNA-Glu gene, partial sequence; and cytochrome b
+            (CYTB) gene, partial cds; mitochondrial.
+ACCESSION   KC755168
+VERSION     KC755168.1  GI:485650080
+KEYWORDS    .
+SOURCE      mitochondrion Elseya albagula (White-throated snapping turtle)
+  ORGANISM  Elseya albagula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Elseya.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Le,M., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Resolving the phylogenetic history of the short-necked turtles,
+            genera Elseya and Myuchelys (Testudines: Chelidae) from Australia
+            and New Guinea
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   23563271
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Le,M.D., Reid,B.N., McCord,W.P., Naro-Maciel,E., Raxworthy,C.J.,
+            Amato,G. and Georges,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2013) Herpetology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Elseya albagula"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:904184"
+     tRNA            complement(<1..49)
+                     /product="tRNA-Glu"
+     gene            63..>845
+                     /gene="CYTB"
+     CDS             63..>845
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK84895.1"
+                     /db_xref="GI:485650081"
+                     /translation="MKNTNPLLKIINNTLINLPTPSNISALWNFGSLLGACLIMQLAT
+                     GIFLAMHYSSDISTAFSSISHIQRDVQYGWLIRNMHANGASLFFMCIYLHIGRGIYYG
+                     SYLYNKTWNTGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYVGPTLVEW
+                     IWGGFSVDNATLTRFFTFHFLIPFTILAMTMLHLLLLHETGSNNPTGLNSNCDKIPFH
+                     PYFSYKDLLGLLLMITCLLTLTLFHPNLLGDPDNFTPANPLTT"
+ORIGIN      
+        1 ggaacaatca atcattaccc caccagaaga cacataaaac cacaggaatc attaccctaa
+       61 ccataaaaaa cacaaatcca ctattaaaaa tcattaacaa caccctaatc aacctcccca
+      121 ccccatccaa catttccgct ttatgaaact tcggatcatt actaggagca tgcctcatta
+      181 tacaactagc caccggaatc ttcctagcta tacactactc atctgacatc tccacagcat
+      241 tctcatcaat ctcccacatc caacgagacg ttcaatatgg atgattgatt cgaaacatac
+      301 acgccaacgg cgcttcatta ttcttcatat gcatctacct acacatcgga cggggaatct
+      361 actacggctc ctacctctac aacaaaacct gaaacaccgg agtgatatta ttactcctag
+      421 ttatagccac tgcatttgta ggctacgtat taccatgagg acaaatatca ttctgaggag
+      481 ctacagtaat caccaacctc ttatcagcca tcccatatgt aggccctaca cttgtagaat
+      541 ggatttgagg cgggttctct gtagacaacg ccaccctgac ccgattcttc acattccact
+      601 ttctaatccc attcaccatc ctagcaataa ctatactaca cctcctacta ctacacgaaa
+      661 caggatcaaa caacccaaca ggactaaact caaactgtga caaaatccca ttccacccct
+      721 acttctctta taaagaccta ctaggcctcc tactaataat tacatgcctg ctcaccctaa
+      781 ccctattcca cccaaaccta ctaggagacc cagacaactt cacaccagct aacccactaa
+      841 ccacc
+//
+
+LOCUS       JX139069                1112 bp    DNA     linear   VRT 28-MAR-2013
+DEFINITION  Phrynops geoffroanus voucher MTD:T:645 cytochrome b (Cytb) gene,
+            partial cds; and tRNA-Thr gene, partial sequence; mitochondrial.
+ACCESSION   JX139069
+VERSION     JX139069.2  GI:471501869
+KEYWORDS    .
+SOURCE      mitochondrion Phrynops geoffroanus (Geoffroy's toadhead turtle)
+  ORGANISM  Phrynops geoffroanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Pleurodira; Chelidae; Phrynops.
+REFERENCE   1  (bases 1 to 1112)
+  AUTHORS   Vargas-Ramirez,M., Michels,J., Castano-Mora,O.V.,
+            Cardenas-Arevalo,G., Gallego-Garcia,N. and Fritz,U.
+  TITLE     Weak genetic divergence between the two South American toad-headed
+            turtles Mesoclemmys dahli and M. zuliae (Testudines: Pleurodira:
+            Chelidae)
+  JOURNAL   Amphib-reptil. (2012) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1112)
+  AUTHORS   Vargas-Ramirez,M., Michels,J., Castano-Mora,O.V.,
+            Cardenas-Arevalo,G., Gallego-Garcia,N. and Fritz,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUN-2012) Phylogeography, Museum of Zoology (Museum
+            fur Tierkunde), Senckenberg Dresden, A.B. Meyer Building, Dresden
+            D-01109, Germany
+REFERENCE   3  (bases 1 to 1112)
+  AUTHORS   Vargas-Ramirez,M., Michels,J., Castano-Mora,O.V.,
+            Cardenas-Arevalo,G., Gallego-Garcia,N. and Fritz,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2013) Phylogeography, Museum of Zoology (Museum
+            fur Tierkunde), Senckenberg Dresden, A.B. Meyer Building, Dresden
+            D-01109, Germany
+  REMARK    Sequence update by submitter
+COMMENT     On Mar 28, 2013 this sequence version replaced gi:407021286.
+FEATURES             Location/Qualifiers
+     source          1..1112
+                     /organism="Phrynops geoffroanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MTD:T:645"
+                     /db_xref="taxon:44502"
+     gene            <1..1066
+                     /gene="Cytb"
+     CDS             <1..1066
+                     /gene="Cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:1066,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFS65494.2"
+                     /db_xref="GI:471501870"
+                     /translation="TSNISAWWNFGSLLGACLALQLATGVFLAMHYSSDISTAFSSIS
+                     HIQRDVQYGWLIRNMHANGASLFFICMYLHIGRGIYYGSYLYKKTWNTGVVLLLLVMA
+                     TAFVGYVLPWGQMSFWGATVITNLLSALPYIGHSTVEWIWGGFSVDNATLTRFFTFHF
+                     LIPFIIAGMMMVHLLFLHETGSNNPTGLNSNCDKIPFHPYFSHKDLLGLIMMLTCLLS
+                     LTLFLPNLLGDPDNFTPANPLVTPPHIKPEWYFLFAYAILRSIPNKLGGVLALLLSIM
+                     VLLLMPSLHTSKQRTTTFRPMSQITFWLLVADLLILTWIGGRPVEDPFILIGQVASTL
+                     YFSTILIIMPLTNLTENKMMN"
+     tRNA            1067..>1112
+                     /product="tRNA-Thr"
+ORIGIN      
+        1 acatccaaca tctcagcatg atgaaacttc ggctccctac taggagcatg ccttgcgcta
+       61 caattagcca caggagtttt cctagccata cactactcat ctgatatctc cacagcattc
+      121 tcatcaatct cccacatcca acgagatgtc caatatggct gactaatccg aaacatacat
+      181 gcaaacgggg cctcactatt tttcatttgc atgtacttgc acatcggacg aggaatctac
+      241 tacggatcat acctgtacaa aaaaacctga aatacaggag tagtactact ccttctagtc
+      301 atagctaccg cattcgttgg ctatgtactg ccatgaggac aaatatcatt ctgaggggct
+      361 acagtaatca ccaacctcct atcagccctc ccctacattg ggcactccac agtagagtgg
+      421 atctgaggtg gattctccgt agacaacgcc accctgaccc gattctttac atttcacttc
+      481 ctcatcccat tcatcatcgc aggcataata atagtacacc ttttattcct acacgaaaca
+      541 ggctcaaata atcccacagg actaaactcc aactgcgaca aaatcccatt ccacccatac
+      601 ttctcccaca aagacctcct aggactcatt ataatactaa cctgcctact aagcctaacc
+      661 ctattcctac caaacctact aggcgaccca gacaacttca ccccagccaa cccgcttgtc
+      721 accccaccac acatcaaacc agaatggtac ttcctattcg cctacgccat cctacgatcc
+      781 atccccaaca agctcggagg cgtcctagcc ctcctactat caatcatagt cctacttcta
+      841 ataccctccc tccacacatc aaaacaacga accaccacat tccgaccaat atcccaaatc
+      901 acattctgac tcctagtagc agacctactc atcctaacat gaattggggg ccgaccagta
+      961 gaagacccgt tcatcctcat cggacaagta gcctccacat tatacttctc aaccatcctt
+     1021 atcatcatac cactcacaaa cctaactgaa aataaaataa taaactaact attccgatag
+     1081 tttacccaaa aacattggtc ttgtaaacca aa
+//
+

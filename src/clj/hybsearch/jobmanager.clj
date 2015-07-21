@@ -16,7 +16,7 @@
 ;; state outside of functions by hand, so be careful!
 
 ;; The number of thread workers created for each job
-(def ^:const num-job-workers 100)
+(def ^:const num-job-workers 50)
 
 ;; This function is called when new data is available for clients.
 ;; Set it by calling reset-updated-fn!.
@@ -48,17 +48,16 @@
 (defonce timings (atom {}))
 
 (defn correct-processed-metric [job-id num-left]
-  (let [job (crud/read-job-by-id @(db/db) job-id)
-        ts (:triples job)]
+  (let [todos (crud/read-todos-by-job @(db/db) job-id)
+    ;;object ids
+        ts (:triple_id todos)] 
     (crud/set-job-processed @(db/db) job-id (- (count ts) num-left))))
 
 ;; Caluclates the ids of the triples that still need processing.
 (defn triples-left [job-id]
-  (let [job (crud/read-job-by-id @(db/db) job-id)]
+  ;;(let [job (crud/read-job-by-id @(db/db) job-id)]
     ;; If the triple has a tree corresponding to this job's clustalscheme, it doesn't need to be processed.
-    (remove nil? (map #(if (some? (crud/read-tree-by-scheme-and-triple @(db/db) (:clustalscheme job) %))
-                         nil %)
-                      (:triples job)))))
+    (crud/read-todos-by-job @(db/db) job-id))
 
 (defn insert-time! [job-id t]
   (swap! timings update-in [job-id]
@@ -141,7 +140,8 @@
       ;; Assign list of ids to the job's triples array in the database
       ;; Setting the triples automatically changes initialized to true.
       ;; CHANGE TO TODO HERE
-      (crud/set-job-triples @(db/db) (:_id job) trip-ids)
+      (mapv (fn [t] 
+        (crud/create-todos @(db/db) (:_id job) t)) trip-ids)
       (@updated-fn)
       true)))
 
@@ -187,8 +187,12 @@
                                                                                    })]
                                 ;;(>!! output-chan (str "Job: " job-id " Tree: " tree))
                                 (try
-                                  (crud/create-tree @(db/db) tree)
+                                  (if (potential-hybrid? g-tree {(:accession A) A
+                                                                 (:accession B) B
+                                                                 (:accession C) C
+                                                                 }) (crud/create-tree @(db/db) tree))
                                   (catch com.mongodb.DuplicateKeyException e nil)) ;; So redundant work, if it happens, doesn't crash the thread.
+                                (crud/set-todo-processed @(db/db) t job-id)
                                 (crud/inc-job-processed @(db/db) job-id)
                                 (@updated-fn))
                               (insert-time! job-id (/ (- (System/nanoTime) start) 1000000000.0)) ;; Seconds

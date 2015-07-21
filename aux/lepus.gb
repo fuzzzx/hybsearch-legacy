@@ -1,0 +1,1380 @@
+LOCUS       HQ596485                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus townsendii voucher FXG229 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596485
+VERSION     HQ596485.1  GI:315661252
+KEYWORDS    .
+SOURCE      mitochondrion Lepus townsendii (white-tailed jackrabbit)
+  ORGANISM  Lepus townsendii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus townsendii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FXG229"
+                     /db_xref="taxon:63225"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54643.1"
+                     /db_xref="GI:315661253"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDLLGFLVLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ctcagcctga tgaaactttg gctccctatt aggactatgc
+      121 ctaataatcc aaatcctaac tggcctcttc ctagctatac actatacatc agacacagca
+      181 acagcatttt cttcagtcac acacatttgc cgagacgtaa actatggctg actcattcgt
+      241 tacctacacg ctaacggagc atcaatattt tttatctgct tatatataca tgtaggtcgt
+      301 ggaatctact acggctcata tacttaccta gaaacctgaa atattggcat tattctacta
+      361 tttgcagtaa tagccacagc attcataggc tatgtcctcc catgaggaca aatatcattc
+      421 tgaggcgcta ccgtaattac taatctttta tcagctattc cctacattgg aacaacccta
+      481 gttgaatgaa tttggggagg gttctcagtc gacaaagcta cactcacccg attcttcgcc
+      541 ttccacttca ttctcccatt catcatcgca gcactagtga tgattcactt acttttcctc
+      601 catgaaactg gctccaataa tccatcaggt atcccatcag actctgataa aattccattc
+      661 cacccctatt atacaattaa agacctccta ggatttctcg tacttattct cctactcata
+      721 ctcctagtcc tattttcccc tgacctcctc ggagatccag acaactacac ccctgccaat
+      781 cctctcaaca cacctcccca cattaaacct gaatgatact ttctatttgc ctacgccatt
+      841 ttacgctcca tccctaacaa actaggaggt gttctagccc tagtcatgtc aattcttatc
+      901 ctagcaatta tccccttcct ccacatatcc aaacaacgca gcataatatt ccgacccatt
+      961 agccaagttc tcttctgaat cctcgttgca gaccttctaa cactcacatg gatcggagga
+     1021 caaccagttg aacacccatt tattactatt ggacaagtag catctatcct ttacttctcc
+     1081 atcatcctta tccttatacc tcttgcaagc ttaattgaga ataaaatcct taaatgaagg
+//
+
+LOCUS       HQ596484                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus timidus voucher UU-LT-33 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596484
+VERSION     HQ596484.1  GI:315661250
+KEYWORDS    .
+SOURCE      mitochondrion Lepus timidus (Mountain hare)
+  ORGANISM  Lepus timidus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus timidus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UU-LT-33"
+                     /db_xref="taxon:62621"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54642.1"
+                     /db_xref="GI:315661251"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDLLGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ctcagcctga tggaactttg gctccctatt aggactatgc
+      121 ctaataatcc aaatcctaac tggcctattc ctagctatac actacacatc agacacagca
+      181 acagcatttt cttcagtcac acatatttgc cgagacgtaa actatggctg acttattcgt
+      241 tacctgcacg ccaatggagc atcaatattt tttatctgct tatatataca tgtaggtcgt
+      301 ggaatctact acggctcata tacttaccta gaaacctgga atattggcat tattctacta
+      361 tttgcagtaa tagccacagc atttataggc tatgttctcc catgaggaca aatatcattc
+      421 tgaggcgcta ctgtaattac caatctttta tcagctatcc cctacattgg aacaacccta
+      481 gttgaatgaa tttgaggagg attttcagtc gacaaagcta cactcacccg attcttcgct
+      541 ttccacttca ttctcccatt catcatcgca gcactagtga tgattcactt acttttcctc
+      601 catgaaactg gctccaataa cccatcaggt atcccatcag actctgataa gattccattc
+      661 cacccctatt acacaattaa agaccttcta ggatttctca tacttatcct cctactcata
+      721 ctcctagtct tattctcccc tgaccttctc ggagacccag acaactacac ccctgccaat
+      781 cctctcaaca ctcctcccca catcaaacct gaatggtatt ttctatttgc ctacgccatt
+      841 ttacgctcca tccctaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatta tccccttcct ccacatatcc aaacaacgca gcataatatt ccgaccgatt
+      961 agccaagttc tcttctgaat cctcgttgca gaccttctaa cactcacatg gatcggagga
+     1021 caaccagttg aacacccatt tattactatt gggcaagtag catctatcct ttacttctct
+     1081 atcatcctta ttcttatacc ccttgcaagc ttaattgaga ataaaatcct taaatgaagg
+//
+
+LOCUS       HQ596483                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus timidus voucher VVU-LT-9 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596483
+VERSION     HQ596483.1  GI:315661248
+KEYWORDS    .
+SOURCE      mitochondrion Lepus timidus (Mountain hare)
+  ORGANISM  Lepus timidus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus timidus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VVU-LT-9"
+                     /db_xref="taxon:62621"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54641.1"
+                     /db_xref="GI:315661249"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDLLGFLVLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgat
+       61 cttcccgccc cctcaaacat ctcagcctga tgaaactttg gctccctatt aggactatgc
+      121 ctaataatcc aaatcctaac tggcctattc ctagctatac actacacatc agacacagca
+      181 acagcatttt cttcagtcac acatatttgc cgagacgtaa actatggctg acttattcgt
+      241 tacctgcacg ccaatggagc atcaatattt tttatctgct tatatataca tgtaggtcgt
+      301 ggaatctact acggctcata tacttaccta gaaacctgga atattggcat tattctacta
+      361 tttgcagtaa tagccacagc atttataggc tatgttctcc catgaggaca aatatcattc
+      421 tgaggtgcta ctgtaattac caatctttta tcagctatcc cctacattgg aacaacccta
+      481 gttgaatgaa tttgaggggg attttcagtc gacaaagcta cactcacccg attcttcgct
+      541 ttccacttca ttctcccatt catcatcgca gcactagtga tgattcactt acttttcctc
+      601 catgaaactg gctccaataa cccatcaggt atcccatcgg actctgataa gattccattc
+      661 cacccctatt acacaattaa agaccttcta ggatttctcg tacttatcct cctactcata
+      721 ctcctagtct tattctcccc tgaccttctc ggagacccag acaactacac ccctgccaat
+      781 cctctcaaca ctcctcccca catcaaacct gaatggtatt ttctatttgc ctacgccatt
+      841 ttacgctcca tccctaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatta tccccttcct ccacatatcc aaacaacgca gcataatatt ccgaccgatt
+      961 agccaagttc tcttctgaat cctcgttgca gaccttctaa cactcacatg gatcggagga
+     1021 caaccagttg aacacccatt tattactatt ggtcaagtag catctatcct ttacttctct
+     1081 atcatcctta tccttatacc ccttgcaagc ttaattgaga ataaaatcct taaatgaagg
+//
+
+LOCUS       HQ596482                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus timidus voucher UU-LT-29 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596482
+VERSION     HQ596482.1  GI:315661246
+KEYWORDS    .
+SOURCE      mitochondrion Lepus timidus (Mountain hare)
+  ORGANISM  Lepus timidus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus timidus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UU-LT-29"
+                     /db_xref="taxon:62621"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54640.1"
+                     /db_xref="GI:315661247"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDLLGFLVLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ctcagcctga tgaaactttg gttccctatt aggactatgc
+      121 ctaataatcc aaatcctaac tggcctattc ctagctatac actacacatc agacacagca
+      181 acagcatttt cttcagtcac acatatttgc cgagacgtaa actatggctg acttattcgt
+      241 tacctgcacg ccaatggagc atcaatattt tttatctgct tatatataca tgtaggtcgt
+      301 ggaatctact acggctcata tacttaccta gaaacctgga atattggcat tattctacta
+      361 tttgcagtaa tagccacagc atttataggc tatgttctcc catgaggaca aatatcattc
+      421 tgaggcgcta ctgtaattac caatctttta tcagctatcc cctacattgg aacaacccta
+      481 gttgaatgaa tttgaggagg attttcagtc gacaaagcta cactcacccg attcttcgct
+      541 ttccacttca ttcttccatt catcatcgca gcactagtga tgattcactt acttttcctc
+      601 catgaaactg gctccaataa cccatcaggc atcccatcag actctgataa gattccattc
+      661 cacccctatt acacaattaa agaccttcta ggatttctcg tacttatcct cctactcata
+      721 ctcctagtct tattctcccc tgaccttctc ggagacccag acaactacac ccctgccaat
+      781 cctctcaaca ctcctcccca catcaaacct gaatggtatt ttctatttgc ctacgccatt
+      841 ttacgctcca tccctaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatta tccccttcct ccacatatcc aaacaacgca gcataatatt ccgaccgatt
+      961 agccaagttc tcttctgaat cctcgttgca gaccttctaa cactcacatg gatcggagga
+     1021 caaccagttg aacacccatt tattactatt ggacaagtag catctatcct ttacttctct
+     1081 atcatcctta tccttatacc ccttgcaagc ttaattgaga ataaaatcct taaatgaagg
+//
+
+LOCUS       HQ596481                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus sinensis voucher BYU-LS1 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596481
+VERSION     HQ596481.1  GI:315661244
+KEYWORDS    .
+SOURCE      mitochondrion Lepus sinensis (Chinese hare)
+  ORGANISM  Lepus sinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus sinensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BYU-LS1"
+                     /db_xref="taxon:112022"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54639.1"
+                     /db_xref="GI:315661245"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFVIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDVLGFLMLILMLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLVENEILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 ctccctgccc cctcaaacat ctcagcctga tgaaactttg gctctctatt aggattatgc
+      121 ctaataattc aaatcctaac tggactattc ctagctatac actatacatc agatacagca
+      181 acagcattct cctcagtcac acatatttgc cgagatgtaa actacggctg acttatccgt
+      241 tacctacacg ctaacggagc atcaatattc tttatctgcc tatatataca tgtaggccgt
+      301 gggatttact acggctcata tacttaccta gaaacttgga atattggcat cattcttcta
+      361 tttgcagtta tagccacggc atttataggc tatgttcttc catgaggaca aatatcattc
+      421 tgaggcgcta ccgtcattac taatctttta tcagccatcc cctacatcgg gacaacccta
+      481 gtcgaatgaa tctgaggagg attttcagtc gataaagcca cacttacccg attcttcgct
+      541 ttccacttca ttctcccatt tgtcatcgca gctctagtaa taattcactt actctttctc
+      601 catgaaactg gctccaataa cccatcaggc atcccatcag actctgataa aatcccattc
+      661 cacccctatt atacaatcaa agatgtctta gggtttctta tacttattct catacttatg
+      721 ctcctagtct tattctcccc tgaccttctc ggagacccag acaactatac ccctgccaat
+      781 cccctcaaca ctcctcctca catcaaaccc gaatgatact tcctatttgc ctacgccatt
+      841 ttacgttcta tccctaacaa actaggaggt gttctagccc tagtcatatc aatccttatc
+      901 ctagcaatta tccccttcct ccacatatcc aaacaacgca gcataatatt ccgacccatt
+      961 agccaagtcc ttttttgaat ccttgtcgca gaccttctga cactcacatg aattggaggg
+     1021 caaccagttg aacacccatt tatcactatt ggtcaagtgg catctatcct ttacttctcc
+     1081 atcatcctca tcctcatgcc cctcgcaagc ttagtcgaaa atgaaatcct taaatgaagg
+//
+
+LOCUS       HQ596480                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus saxatilis voucher TJR-SAX1 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596480
+VERSION     HQ596480.1  GI:315661242
+KEYWORDS    .
+SOURCE      mitochondrion Lepus saxatilis (scrub hare)
+  ORGANISM  Lepus saxatilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus saxatilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TJR-SAX1"
+                     /db_xref="taxon:63224"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54638.1"
+                     /db_xref="GI:315661243"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISTWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDILGFLVLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAVIPFLHMSKQRSMMFRPISQVLFWVLVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgcaaaac tcatccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cttcaaacat ctcaacctga tgaaactttg gatctctgtt aggcctatgc
+      121 ctaataattc aaatcctaac tggcctattc ctagccatac actacacatc agacacagca
+      181 acagcattct cctcagttac acacatttgt cgagacgtaa attacggctg actcatccgt
+      241 tatctacacg ctaacggagc atcaatattc tttatttgct tatatataca tgtaggccgt
+      301 ggaatctact acggctcata cacttatctc gaaacctgaa atattggcat tatcctatta
+      361 tttgcagtaa tagccacagc attcataggc tatgtcctcc catgagggca aatatctttc
+      421 tgaggggcca ccgtaattac taatcttcta tcagccatcc cctacattgg aacaacccta
+      481 gttgaatgaa tctgaggggg attttcagtt gacaaagcca cactcacccg atttttcgct
+      541 ttccacttca tcctcccatt catcatcgca gcactagtaa taatccattt acttttcctc
+      601 catgaaactg gctccaataa cccatcaggc attccatcag actccgacaa aattccattc
+      661 cacccttatt atacaatcaa agatattcta gggtttctag ttcttattct cctacttata
+      721 ctcctagtcc tattctcccc tgaccttctt ggcgacccag acaactatac ccctgccaac
+      781 cccctcaaca ctccccctca catcaaacct gagtgatatt tcctatttgc ctatgccatt
+      841 ctacgctcca ttcccaacaa gcttggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcagtca tccctttcct ccacatatcc aaacaacgca gcataatatt ccgacctatc
+      961 agccaagtcc ttttctgagt cctcgtcgca gatcttctca cactcacatg aattggagga
+     1021 caaccagttg aacacccatt tatcactatc ggacaagtag catccattct ctacttctcc
+     1081 attatcctta tcctcatgcc cctcgcaagc ttaatcgaga ataaaatcct caaatgaagg
+//
+
+LOCUS       HQ596479                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus othus voucher AF202 cytochrome b (cytb) gene, complete cds;
+            mitochondrial.
+ACCESSION   HQ596479
+VERSION     HQ596479.1  GI:315661240
+KEYWORDS    .
+SOURCE      mitochondrion Lepus othus (Alaskan hare)
+  ORGANISM  Lepus othus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus othus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AF202"
+                     /db_xref="taxon:62620"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54637.1"
+                     /db_xref="GI:315661241"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     VLTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDLLGFLVLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ctcagcctga tggaactttg gctccctatt aggactatgc
+      121 ctaataatcc aagtcctaac tggcctattc ctagctatac actacacatc agacacagca
+      181 acagcatttt cttcagtcac acatatttgc cgagacgtaa actatggctg acttattcgt
+      241 tacctgcacg ccaatggagc atcaatattt tttatctgct tatatataca tgtaggtcgt
+      301 ggaatctact acggctcata tacttaccta gaaacctgga atattggcat tattctacta
+      361 tttgcagtaa tagccacagc atttataggc tatgttctcc catgaggaca aatatcattc
+      421 tgaggcgcta ctgtaattac caatctttta tcagctatcc cctacattgg aacaacccta
+      481 gttgaatgaa tttgaggagg attttcagtc gacaaagcta cactcacccg attcttcgct
+      541 ttccacttca ttctcccatt catcatcgca gcactagtga tgattcactt acttttcctc
+      601 catgaaactg gctccaataa cccatcaggt atcccatcag actctgataa gattccattc
+      661 cacccctatt acacaattaa agaccttcta ggatttctcg tacttatcct cctactcata
+      721 ctcctagtct tattctcccc tgaccttctc ggagacccag acaactacac ccctgccaat
+      781 cctctcaaca ctcctcccca catcaaacct gaatggtatt ttctatttgc ctacgccatt
+      841 ttacgctcca tccctaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatta tccccttcct ccacatatcc aaacaacgca gcataatatt ccgaccgatt
+      961 agccaagttc tcttctgaat cctcgttgca gaccttctaa cactcacatg gatcggagga
+     1021 caaccagttg aacacccatt tattactatt ggacaagtag catctatcct ttacttctct
+     1081 atcatcctta ttcttatacc ccttgcaagc ttaattgaga ataaaatcct taaatgaagg
+//
+
+LOCUS       HQ596478                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus insularis voucher CNMA37147 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   HQ596478
+VERSION     HQ596478.1  GI:315661238
+KEYWORDS    .
+SOURCE      mitochondrion Lepus insularis (Black jackrabbit)
+  ORGANISM  Lepus insularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus insularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNMA37147"
+                     /db_xref="taxon:795836"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54636.1"
+                     /db_xref="GI:315661239"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDVLGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILVIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ttcagcctga tgaaactttg gctctctatt aggcctatgc
+      121 ctaataatcc aaattctaac tggtctcttc ctagccatac actatacatc agacacagca
+      181 acagcattct cctcagtcac acatatttgc cgagacgtaa actatggctg acttatccgt
+      241 tacctgcacg ctaacggagc atcaatattc tttatttgcc tatatataca tgtaggccgt
+      301 ggaatttact acggctcata tacttattta gaaacctgaa atattgggat tattctgcta
+      361 ttcgcagtaa tagccacagc atttataggt tatgtcctcc catgagggca aatatcattc
+      421 tgaggagcta ccgtaattac taatcttcta tcagctattc cctatattgg aacaacccta
+      481 gttgaatgaa tctgaggggg attctcagtt gacaaagcca cactaacccg attcttcgct
+      541 ttccacttta tcctcccatt catcattgca gcattagtta taattcactt actcttcctc
+      601 catgaaacgg gctccaataa cccttcaggc attccatcag attccgataa aattccattc
+      661 cacccctatt atacaattaa agatgtccta ggatttctta tactgattct cctacttata
+      721 ctcttagtct tattctcccc tgaccttctc ggcgacccag acaactacac ccctgccaac
+      781 cccctcaata cgccccctca cattaaacct gaatggtact tcctatttgc ctatgccatt
+      841 ttacgctcca tccccaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagtaatca ttcccttcct ccatatatcc aaacaacgca gcataatatt ccgacccatc
+      961 agccaagttc ttttttgaat cctagttgca gaccttctca cactcacatg aattggagga
+     1021 caaccagttg aacacccatt cattactatt ggacaagtag catctattct ttacttctct
+     1081 attatcctca tcctcatacc tctcgccagc ttaatcgaga acaaaatcct caaatgaagg
+//
+
+LOCUS       HQ596477                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus insularis voucher CNMA36772 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   HQ596477
+VERSION     HQ596477.1  GI:315661236
+KEYWORDS    .
+SOURCE      mitochondrion Lepus insularis (Black jackrabbit)
+  ORGANISM  Lepus insularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus insularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNMA36772"
+                     /db_xref="taxon:795836"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54635.1"
+                     /db_xref="GI:315661237"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVTIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDVLGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ttcagcctga tgaaactttg gctctctatt aggcctatgc
+      121 ctaataatcc aaattctaac tggtctcttc ctagccatac actatacatc agacacagca
+      181 acagcattct cctcagtcac acatatttgc cgagacgtaa actatggctg acttatccgt
+      241 tacctgcacg ctaacggagc atcaatattc tttatttgcc tatatataca tgtaggccgt
+      301 ggaatttact acggctcata tacttattta gaaacctgaa atattgggat tattctgcta
+      361 ttcgcagtaa tagccacagc atttataggt tatgtcctcc catgagggca aatatcattc
+      421 tgaggagcta ccgtaattac taatcttcta tcagctattc cctatattgg aacaacccta
+      481 gttgaatgaa tctgaggggg attctcagtt gacaaagcca cactaacccg attcttcgct
+      541 ttccacttta tcctcccatt catcattgca gcattagtta caattcactt actcttcctc
+      601 catgaaacgg gctccaataa cccttcaggc attccatcag attccgataa aattccattc
+      661 cacccctatt atacaattaa agatgtccta ggatttctta tactgattct cctacttata
+      721 ctcttagtct tattctcccc tgaccttctc ggcgacccag acaactacac ccctgccaac
+      781 cccctcaata cgccccctca cattaaacct gaatggtact tcctatttgc ctatgccatt
+      841 ttacgctcca tccccaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatca ttcccttcct ccatatatcc aaacaacgca gcataatatt ccgacccatc
+      961 agccaagttc ttttttgaat cctagttgca gaccttctca cactcacatg aattggagga
+     1021 caaccagttg aacacccatt cattactatt ggacaagtag catctattct ttacttctct
+     1081 attatcctca tcctcatacc tctcgccagc ttaatcgaga acaaaatcct caaatgaagg
+//
+
+LOCUS       HQ596476                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus granatensis voucher EBD-L094 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   HQ596476
+VERSION     HQ596476.1  GI:315661234
+KEYWORDS    .
+SOURCE      mitochondrion Lepus granatensis (Granada hare)
+  ORGANISM  Lepus granatensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus granatensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="EBD-L094"
+                     /db_xref="taxon:100182"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54634.1"
+                     /db_xref="GI:315661235"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDALGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIFPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFTIILILMPLASLVENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac acacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcctgccc cctcaaacat ttcagcctga tgaaactttg gctctctgtt aggattatgc
+      121 cttataatcc aaatcctaac tggcttgttc ctagctatac actatacgtc agacacagca
+      181 acagcattct cctcagtcac tcatatttgc cgagacgtaa actacggctg actcattcgc
+      241 tacctgcacg ctaacggagc ttcaatattc tttatttgct tatacataca tgtaggccgt
+      301 ggaatctact acggctcata tacctaccta gaaacctgaa atattggcat tatcctatta
+      361 tttgcagtaa tagccacagc attcataggc tacgtcctcc catgaggaca aatatcattc
+      421 tgaggggcta ccgtgattac taatctccta tcagccatcc cctatatcgg aacaacccta
+      481 gttgaatgaa tctgaggagg gttctcagtt gataaagcca cacttacccg attcttcgct
+      541 ttccacttca ttcttccatt cattattgca gcactagtaa taattcactt actctttctt
+      601 catgaaactg gctccaataa cccatcaggc atcccatcag actctgataa aattccattc
+      661 catccctact acacaattaa agatgctctt gggtttctta tacttattct cctactcata
+      721 ctcctagtct tattctctcc tgaccttctc ggcgacccag acaactatac ccctgccaac
+      781 cccctcaaca cccctcccca catcaaacct gaatgatact tcctatttgc ctatgccatt
+      841 ttgcgctcca tccctaataa actaggaggc gtcctagccc tggttatatc aattcttatc
+      901 ctagcaattt tccccttcct ccacatatcg aaacaacgca gcataatatt ccgacctatt
+      961 agccaagtcc ttttctgaat cctcgttgca gaccttctta cactcacatg gatcggagga
+     1021 caaccagttg aacacccctt tatcactatt ggacaagtag catcaattct ttacttcacc
+     1081 atcatcctca tccttatacc cctcgcaagc ttagtcgaga ataaaatcct caaatgaagg
+//
+
+LOCUS       HQ596475                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus flavigularis voucher CNMA37829 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   HQ596475
+VERSION     HQ596475.1  GI:315661232
+KEYWORDS    .
+SOURCE      mitochondrion Lepus flavigularis (Tehuantepec hare)
+  ORGANISM  Lepus flavigularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus flavigularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNMA37829"
+                     /db_xref="taxon:430913"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54633.1"
+                     /db_xref="GI:315661233"
+                     /translation="MANIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTADTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYSETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDVLGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atggccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgat
+       61 cttcccgccc cctcaaacat ttcagcctga tgaaactttg gctctctatt aggcctatgc
+      121 ctaataatcc aaattctgac tggtctcttc ctagctatac actatacagc agacacagcg
+      181 acagcattct cctcagtcac acatatttgt cgagacgtaa actatggctg actcatccgt
+      241 tacctgcacg ctaacggagc atcaatattc tttatctgcc tatatataca tgtaggccgt
+      301 ggaatttact acggctcata tacttattca gaaacctgaa atattggtat tattctacta
+      361 ttcgcagtaa tagccacagc atttataggt tatgtcctcc catgaggaca aatatcattc
+      421 tgaggggcta ccgtaattac taatcttcta tcagccatcc cctatattgg aacaacccta
+      481 gttgaatgga tctgaggggg attttcagtt gacaaagcca cactcacccg atttttcgct
+      541 ttccacttta ttctcccatt catcattgca gcattagtaa taattcactt acttttcctc
+      601 cacgaaacgg gctccaataa cccttcaggc attccatcag attccgacaa aattccattc
+      661 cacccctatt atacaattaa agatgtccta ggatttctta tactgattct cctacttata
+      721 ctcttagttt tattctcccc tgaccttctc ggcgacccag acaactacac ccccgccaac
+      781 cccctcaata ctccccctca cattaaacct gaatggtact tcctatttgc ctacgccatt
+      841 ttacgctcta tccccaacaa actaggaggt gttctagccc tagttatatc aattcttatc
+      901 ctagcaatca ttcccttcct ccatatatcc aaacaacgca gcataatatt ccgacccatc
+      961 agccaagttc ttttttgaat cctcgttgca gaccttctca cactcacatg aattggagga
+     1021 caaccagttg aacacccatt cattaccatt ggacaagtag catctattct ttacttctct
+     1081 attatcctca tccttatacc tctcgccagc ttaatcgaaa acaaaatcct caaatgaagg
+//
+
+LOCUS       HQ596474                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus europaeus voucher VVU-LE-121 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   HQ596474
+VERSION     HQ596474.1  GI:315661230
+KEYWORDS    .
+SOURCE      mitochondrion Lepus europaeus (European hare)
+  ORGANISM  Lepus europaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus europaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VVU-LE-121"
+                     /db_xref="taxon:9983"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54632.1"
+                     /db_xref="GI:315661231"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDALGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLVENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac acacccccta ctaaaaattg ttaaccactc tctaatcgac
+       61 cttcccgccc cctcaaacat ctctgcctga tgaaacttcg gctctctatt gggattatgc
+      121 ctaataatcc agatcctaac tggcttattt ctagccatac actacacatc agacacagct
+      181 acagcattct cctcagttac acatatttgc cgagatgtaa actacggctg actcattcgt
+      241 tacttacacg ctaatggagc atcaatattc tttatttgct tatatataca tgtaggccgt
+      301 ggaatctact acggctcata tacttaccta gaaacctgaa acattggcat tattctacta
+      361 ttcgcagtaa tggctacagc attcataggc tacgtcctcc catgaggaca aatatcattc
+      421 tgaggggcta ccgtaattac taatcttcta tcagccattc cttatatcgg aacaacccta
+      481 gttgaatgaa tctgaggagg attttcagtc gataaagcca cacttacccg atttttcgct
+      541 tttcacttta tcctcccatt tattattgca gctctagtga taattcactt acttttcctc
+      601 catgaaactg gctccaataa cccatcaggc atcccatcag actctgataa aatcccattc
+      661 cacccctact acacaattaa agacgcgcta ggatttctta tactcattct cctgctcata
+      721 ctcctagtct tattctcccc tgatcttctc ggggacccag acaattatac ccctgccaac
+      781 cccctcaaca ctcctcctca catcaaacct gagtgatatt tcctatttgc ctacgccatc
+      841 ctacgttcca tccctaataa actaggtggt gttctagccc tagttatatc aattcttatc
+      901 ctagcaatta tccccttcct tcatatatcc aaacaacgca gcataatatt ccgccccatt
+      961 agccaagtcc ttttctgaat ccttgtcgca gaccttctta cactcacatg aattggagga
+     1021 caaccagttg aacacccctt tatcactatt ggtcaagtag catctatcct atacttctcc
+     1081 atcatcctta tcctcatacc tctcgcaagc ctagtcgaga ataaaatcct caaatgaagg
+//
+
+LOCUS       HQ596473                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus europaeus voucher UU-LE-7 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596473
+VERSION     HQ596473.1  GI:315661228
+KEYWORDS    .
+SOURCE      mitochondrion Lepus europaeus (European hare)
+  ORGANISM  Lepus europaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus europaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UU-LE-7"
+                     /db_xref="taxon:9983"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54631.1"
+                     /db_xref="GI:315661229"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDALGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLVENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac gcacccccta ctaaaaattg ttaaccactc tctaatcgac
+       61 cttcccgccc cctcaaacat ctctgcctga tgaaacttcg gctctctatt aggattatgc
+      121 ctaataatcc agatcctaac tggcttattt ctagccatac actacacatc agacacagct
+      181 acagcattct cctcagttac acatatttgc cgagatgtaa actacggctg actcattcgt
+      241 tacttacacg ctaatggagc atcaatattc tttatttgct tatatataca tgtaggccgt
+      301 ggaatctact acggctcata tacttaccta gaaacctgaa acattggcat tattctacta
+      361 ttcgcagtaa tggctacagc attcataggc tacgtcctcc catgaggaca aatatcattc
+      421 tgaggggcta ccgtaattac taatcttcta tcagccattc cttatatcgg aacaactcta
+      481 gttgaatgaa tctgaggagg attttcagtc gataaagcca cacttacccg atttttcgct
+      541 tttcacttta tcctcccatt tattattgca gctctagtga taattcactt acttttcctc
+      601 catgaaactg gctccaataa cccatcaggc atcccatcag actctgataa aatcccattc
+      661 cacccctact acacaattaa agacgcgcta ggatttctta tactcattct cctgctcata
+      721 ctcctagtct tattctcccc tgatcttctc ggggacccag acaattatac ccctgccaac
+      781 cccctcaaca ctcctcctca catcaaacct gagtgatatt tcctatttgc ctacgccatc
+      841 ctacgttcca tccctaataa actaggtggt gttctagccc tagttatatc aatccttatc
+      901 ctagcaatta tccccttcct tcatatatcc aaacaacgca gcataatatt ccgccccatt
+      961 agccaagtcc ttttctgaat ccttgtcgca gaccttctta cactcacatg aattggagga
+     1021 caaccagttg aacacccctt tatcactatt ggtcaagtag catctatcct atacttctcc
+     1081 atcatcctta tcctcatacc tctcgcaagc ctagtcgaga ataaaatcct caaatgaagg
+//
+
+LOCUS       HQ596472                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus coreanus voucher MVZ134375 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596472
+VERSION     HQ596472.1  GI:315661226
+KEYWORDS    .
+SOURCE      mitochondrion Lepus coreanus (Korean hare)
+  ORGANISM  Lepus coreanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus coreanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ134375"
+                     /db_xref="taxon:258242"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54630.1"
+                     /db_xref="GI:315661227"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNHGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDLLGFLVLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ctcagcctga tgaaactttg gctccctatt aggactatgc
+      121 ctaataatcc aaatcctaac tggcctgttc ctagccatac actacacatc agacacagca
+      181 acagcatttt cttcagtcac acatatttgc cgagacgtaa accatggctg acttattcgt
+      241 tacctgcacg ccaatggggc atcaatattt tttatctgct tatatataca tgtaggtcgt
+      301 ggaatctact acggctcata tacttaccta gaaacctgga atattggcat tattctacta
+      361 tttgcagtaa tagccacagc atttataggc tatgttctcc catgaggaca aatatcattc
+      421 tgaggcgcta ctgtaattac caatctttta tcagctatcc cctacattgg aacaacccta
+      481 gttgaatgaa tttgaggagg attttcagtc gacaaagcta cactcacccg attcttcgct
+      541 ttccacttca ttctcccatt catcatcgca gcactagtga tgattcactt acttttcctc
+      601 catgaaactg gctccaataa cccatcaggt atcccatcag actctgataa gattccattc
+      661 cacccctatt acacaattaa agaccttcta ggatttctcg tacttatcct cctactcata
+      721 ctcctagtct tattctcccc tgaccttctc ggagacccag acaactacac ccctgccaat
+      781 cctctcaaca ctcctcccca catcaaacct gaatggtatt ttctattcgc ctacgccatt
+      841 ttacgctcga tccctaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatta tccccttcct ccacatatcc aaacaacgca gcataatatt ccgaccgatt
+      961 agccaagttc tcttctgaat cctcgttgca gaccttctaa cactcacatg gatcggaggg
+     1021 caaccagttg aacacccatt tattactatt gggcaagtag catctatcct ctacttctct
+     1081 atcatcctta tccttatacc ccttgcaagc ttaattgaga ataaaatcct taaatgaagg
+//
+
+LOCUS       HQ596471                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus capensis voucher TJR-CAP1 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596471
+VERSION     HQ596471.1  GI:315661224
+KEYWORDS    .
+SOURCE      mitochondrion Lepus capensis (brown hare)
+  ORGANISM  Lepus capensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus capensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TJR-CAP1"
+                     /db_xref="taxon:9981"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54629.1"
+                     /db_xref="GI:315661225"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVLIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDVLGFLILILLLTLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPLLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILIFMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ctcagcctga tgaaacttcg gctctctatt aggcctatgc
+      121 ctaataatcc aaatcctaac tggcctgttc ctagctatac actacacatc agacacagca
+      181 acagcgtttt cctcagtcac acatatttgt cgagacgtaa actacggttg acttatccgt
+      241 tacctacacg ccaacggagc atcaatattc tttatttgct tatatataca tgtaggccgt
+      301 ggaatctact acggctcata cacttatcta gaaacctgaa acattggcat tattctgtta
+      361 ttcgcagtaa tagcaacagc gttcataggc tatgtcctcc catgagggca aatatcattc
+      421 tgaggtgcca ccgtaattac taatcttcta tcagccattc cttacatcgg aacaacccta
+      481 gttgaatgaa tctgaggagg attttcagtc gacaaagcca cactaacccg attcttcgct
+      541 ttccatttca tcctaccatt tatcatcgca gctctagtac taatccattt acttttcctc
+      601 catgaaaccg gttctaataa tccatcagga atcccatcag actctgataa aatcccattt
+      661 cacccctatt atacaattaa agatgtccta ggatttctta tccttatcct cctactcaca
+      721 cttctagtct tattctcccc tgaccttctc ggcgacccag acaattacac ccctgccaac
+      781 cccctcaaca ctcctcctca cattaaacct gaatgatact tcctatttgc ctatgccatc
+      841 ctacgctcta ttcctaacaa acttggaggt gttctagccc tagttatatc aatcctcatc
+      901 ctagcaatca tccctctcct ccacatatcc aaacaacgta gcataatatt tcgacccatc
+      961 agtcaagttc ttttctgaat tctcgtcgca gaccttctta cacttacatg aattggagga
+     1021 caaccagttg aacacccatt cattaccatt ggacaagtag catctatcct ctatttctcc
+     1081 atcattctta tcttcatacc tctcgcaagc ttaatcgaga ataaaatcct caaatgaagg
+//
+
+LOCUS       HQ596470                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus capensis voucher MVZ117275 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596470
+VERSION     HQ596470.1  GI:315661222
+KEYWORDS    .
+SOURCE      mitochondrion Lepus capensis (brown hare)
+  ORGANISM  Lepus capensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus capensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ117275"
+                     /db_xref="taxon:9981"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54628.1"
+                     /db_xref="GI:315661223"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDVLGFLILILLLTLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPLLHMSKQRSMMFRPISQVLFWVLVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILIFMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ctcagcctga tgaaacttcg gctctctatt aggcctatgc
+      121 ctaataatcc aaatcctaac tggcctattc ctagctatac actacacatc agacacagca
+      181 acagcgtttt cctcagtcac acatatttgt cgagacgtaa actacggttg acttatccgt
+      241 tacctacacg ccaacggagc atcaatattc tttatttgct tatatataca tgtaggccgt
+      301 ggaatctact acggctcata cacttaccta gaaacctgaa acattggcat tattctgtta
+      361 ttcgcagtaa tagcaacagc gttcataggc tatgtcctcc catgagggca aatatcattc
+      421 tgaggtgcca ccgtaattac taatcttcta tcagccattc cttacatcgg aacaacccta
+      481 gttgaatgaa tctgaggagg attttcagtt gacaaagcca cactaacccg attcttcgct
+      541 ttccatttca tcctaccatt tatcatcgca gctctagtaa taatccattt acttttcctc
+      601 catgaaaccg gttctaataa tccatcggga atcccatcag actctgataa aatcccattt
+      661 cacccctatt atacaattaa agatgtccta ggatttctta tccttatcct cctactcaca
+      721 cttctagtct tattctcccc tgaccttctc ggcgacccag acaattacac ccctgccaac
+      781 cccctcaaca ctcctcccca cattaaacct gaatgatact tcctatttgc ctatgccatc
+      841 ctacgctcta ttcctaacaa acttggaggt gttctagccc tagttatatc aatcctcatc
+      901 ctagcaatca tccctctcct ccacatatcc aaacaacgta gcataatatt tcgacccatc
+      961 agtcaagttc ttttctgagt tctcgtcgca gaccttctta cacttacatg aattggagga
+     1021 caaccagttg aacacccatt cattaccatt ggacaagtag catctatcct ctatttctcc
+     1081 atcattctta tcttcatacc tctcgcaagc ttaatcgaga ataaaatcct caaatgaagg
+//
+
+LOCUS       HQ596469                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus callotis voucher CNMA34850 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596469
+VERSION     HQ596469.1  GI:315661220
+KEYWORDS    .
+SOURCE      mitochondrion Lepus callotis (white-sided jackrabbit)
+  ORGANISM  Lepus callotis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus callotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNMA34850"
+                     /db_xref="taxon:62619"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54627.1"
+                     /db_xref="GI:315661221"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSNSDKI
+                     PFHPYYTIKDVLGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ttcagcctga tgaaactttg gctctctatt aggcctatgc
+      121 ctaataatcc aaattctgac tggtctcttc ctagctatac actatacatc agacacagcg
+      181 acagcattct cctcagtcac acatatttgc cgagacgtaa actatggctg actcatccgt
+      241 tacctgcacg ctaacggagc gtcaatattc tttatttgcc tatatataca tgtaggccgt
+      301 ggaatttact acggctcata cacttactta gaaacctgaa atattggtat tattctacta
+      361 ttcgcagtaa tagccacagc atttataggt tatgtcctcc catgaggaca aatatcattc
+      421 tgaggagcta ccgtaattac taatctccta tcagccatcc cctatattgg aacaacccta
+      481 gttgaatgaa tctgaggggg attttcagtt gataaagcca cactcacccg attcttcgct
+      541 ttccacttta ttctcccatt tatcattgca gcattagtaa taattcactt actctttctc
+      601 cacgaaacgg gctccaataa cccttcaggc attccatcaa attccgataa aatcccattc
+      661 cacccctatt atacaattaa agatgtccta gggtttctta tactaattct cctacttata
+      721 ctcttagtct tattctcccc tgaccttctc ggcgacccag acaactacac ccccgccaac
+      781 cccctcaata ctccccctca cattaagcct gaatggtact tcctatttgc ctacgccatt
+      841 ttacgctcca tccccaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatca tcccctttct ccatatatcc aaacaacgca gcataatatt ccgacccatc
+      961 agccaagttc ttttttggat cctcgttgca gaccttctga cactgacatg aattggagga
+     1021 caaccagtcg aacacccatt tattaccatt ggacaagtag catctatcct ttacttctcc
+     1081 attatcctca tccttatacc tctcgccagc ttaatcgaga acaaaatcct caaatgaagg
+//
+
+LOCUS       HQ596468                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus callotis voucher CNMA34849 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596468
+VERSION     HQ596468.1  GI:315661218
+KEYWORDS    .
+SOURCE      mitochondrion Lepus callotis (white-sided jackrabbit)
+  ORGANISM  Lepus callotis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus callotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNMA34849"
+                     /db_xref="taxon:62619"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54626.1"
+                     /db_xref="GI:315661219"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSNSDKI
+                     PFHPYYTIKDVLGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ttcagcctga tgaaactttg gctctctatt aggcctatgc
+      121 ctaataatcc aaattctgac tggtctcttc ctagctatac actatacatc agacacagcg
+      181 acagcattct cctcagtcac acatatttgc cgagacgtaa actatggctg actcatccgt
+      241 tacctgcacg ctaacggagc gtcaatattc tttatttgcc tatatataca tgtaggccgt
+      301 ggaatttact acggctcata cacttactta gaaacctgaa atattggtat tattctacta
+      361 ttcgcagtaa tagccacagc atttataggt tatgtcctcc catgaggaca aatatcattc
+      421 tgaggagcta ccgtaattac taatctccta tcagccatcc cctatattgg aacaacccta
+      481 gttgaatgaa tctgaggggg attttcagtt gataaagcca cactcacccg attcttcgct
+      541 ttccacttta ttctcccatt tatcattgca gcattagtaa taattcactt actctttctc
+      601 cacgaaacgg gctccaataa cccttcaggc attccatcaa attccgataa aatcccattc
+      661 cacccctatt atacaattaa agatgtccta gggtttctta tactaattct cctacttata
+      721 ctcttagtct tattctcccc tgaccttctc ggcgacccag acaactacac ccccgccaac
+      781 cccctcaata ctccccctca cattaagcct gaatggtact tcctatttgc ctacgccatt
+      841 ttacgctcca tccccaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatca tcccctttct ccatatatcc aaacaacgca gcataatatt ccgacccatc
+      961 agccaagttc ttttttggat cctcgttgca gaccttctga cactgacatg aattggagga
+     1021 caaccagtcg aacacccatt tattaccatt ggacaagtag catctatcct ttacttctcc
+     1081 attatcctca tccttatacc tctcgccagc ttaatcgaga acaaaatcct caaatgaagg
+//
+
+LOCUS       HQ596467                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus callotis voucher BYU15974 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   HQ596467
+VERSION     HQ596467.1  GI:315661216
+KEYWORDS    .
+SOURCE      mitochondrion Lepus callotis (white-sided jackrabbit)
+  ORGANISM  Lepus callotis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus callotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BYU15974"
+                     /db_xref="taxon:62619"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54625.1"
+                     /db_xref="GI:315661217"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDVLGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHMSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ttcagcctga tgaaactttg gctctctatt aggcctatgc
+      121 ctaataatcc aaattctgac tggtctcttc ctagctatac actatacatc agacacagcg
+      181 acagcattct cctcagtcac acatatttgc cgagacgtaa actatggctg actcatccgt
+      241 tacctgcacg ctaacggagc gtcaatattc tttatttgcc tatatataca tgtaggccgt
+      301 ggaatttact acggctcata cacttactta gaaacctgaa atattggtat tattctacta
+      361 ttcgcagtaa tagccacagc atttataggt tatgtcctcc catgaggaca aatatcattc
+      421 tgaggagcta ccgtaattac taatctccta tcagccatcc cctatattgg aacaacccta
+      481 gttgaatgaa tctgaggggg attttcagtt gacaaagcca cactcacccg attcttcgct
+      541 ttccacttta ttctcccatt tatcattgca gcattagtaa taattcactt actctttctc
+      601 cacgaaacgg gctccaataa cccttcaggc attccatcag attctgataa aatcccattc
+      661 cacccctatt atacaattaa agatgtccta gggtttctta tactaattct cctacttata
+      721 ctcttagtct tattctcccc tgacctcctc ggcgacccag acaactacac ccccgccaac
+      781 cccctcaata ctccccctca cattaagcct gaatggtact tcctatttgc ctacgccatt
+      841 ttacgctcca tccccaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatca ttcccttcct ccatatatcc aaacaacgca gcataatatt ccgacccatc
+      961 agccaagttc ttttttggat cctcgttgca gaccttctca cactgacatg aattggagga
+     1021 caaccagttg aacacccatt tattaccatt ggacaagtag catctatcct ttacttctcc
+     1081 atcatcctca tccttatacc tctcgccagc ttaatcgaga acaaaatcct caaatgaagg
+//
+
+LOCUS       HQ596466                1140 bp    DNA     linear   MAM 18-JAN-2011
+DEFINITION  Lepus californicus voucher BYU17208 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   HQ596466
+VERSION     HQ596466.1  GI:315661214
+KEYWORDS    .
+SOURCE      mitochondrion Lepus californicus (black-tailed jackrabbit)
+  ORGANISM  Lepus californicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Lepus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Phylogenetic position of Mexican jackrabbits within the genus Lepus
+            (Mammalia: Lagomorpha): a molecular perspective
+  JOURNAL   Rev Mex Biodivers 81, 721-731 (2010)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ramirez-Silva,J.P., Gonzalez-Cozatl,F.X., Vazquez-Dominguez,E. and
+            Cervantes,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2010) Centro de Investigacion en Biodiversidad y
+            Conservacion, Universidad Autonoma del Estado de Morelos, Av.
+            Universidad 1001, Cuernavaca, Morelos 62209, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Lepus californicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BYU17208"
+                     /db_xref="taxon:48087"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADU54624.1"
+                     /db_xref="GI:315661215"
+                     /translation="MTNIRKTHPLLKIVNHSLIDLPAPSNISAWWNFGSLLGLCLMIQ
+                     ILTGLFLAMHYTSDTATAFSSVTHICRDVNYGWLIRYLHANGASMFFICLYMHVGRGI
+                     YYGSYTYLETWNIGIILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALVMIHLLFLHETGSNNPSGIPSDSDKI
+                     PFHPYYTIKDVLGFLMLILLLMLLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVMSILILAIIPFLHTSKQRSMMFRPISQVLFWILVADLLT
+                     LTWIGGQPVEHPFITIGQVASILYFSIILILMPLASLIENKILKW"
+ORIGIN      
+        1 atgaccaaca ttcgtaaaac tcacccccta ctaaaaattg ttaaccactc cctaattgac
+       61 cttcccgccc cctcaaacat ttcagcctga tgaaactttg gctctctatt aggcctatgc
+      121 ctaataatcc aaattctaac tggtctcttc ctagctatac actatacatc agacacagca
+      181 acagcattct cctcagtcac acatatctgc cgagacgtaa actatggctg acttatccgt
+      241 tacctgcacg ctaacggagc atcaatattc tttatttgcc tatatataca tgtaggccgt
+      301 ggaatttatt acggctcata tacttattta gaaacctgaa atattgggat tattctgcta
+      361 ttcgcagtaa tagccacagc atttataggt tatgtcctcc catgagggca aatatcattc
+      421 tgaggagcta ccgtaattac taatcttctg tcagctatcc cctatattgg aacaacccta
+      481 gttgaatgaa tctgaggggg attttcagtt gacaaagcca cactaacccg attcttcgct
+      541 ttccacttta tcctcccatt catcattgca gcattagtaa taattcactt actcttcctc
+      601 catgaaacgg gctccaataa cccttcaggc attccatcag attccgataa aattccattc
+      661 cacccctatt atacaattaa agatgtccta ggatttctta tactgattct cctgcttata
+      721 ctcttagtct tattctcccc tgaccttctc ggcgacccag acaactacac ccctgccaac
+      781 cccctcaata cgccccctca cattaaacct gaatggtact tcctatttgc ctatgccatt
+      841 ttacgctcca tccccaacaa actaggaggt gttctagccc tagttatatc aattctcatc
+      901 ctagcaatca ttcccttcct ccatacatcc aaacaacgca gcataatatt ccgacccatc
+      961 agccaagttc ttttttgaat cctagttgct gaccttctta cactcacatg aattggagga
+     1021 caaccagttg aacacccatt cattactatc ggacaagtag catctattct ttacttctct
+     1081 attatcctca tcctcatacc tctcgccagc ttaatcgaga acaaaatcct caaatgaagg
+//
+

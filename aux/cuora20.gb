@@ -1,0 +1,1353 @@
+LOCUS       AY434606                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora flavomarginata evelynae cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   AY434606
+VERSION     AY434606.1  GI:41353370
+KEYWORDS    .
+SOURCE      mitochondrion Cuora flavomarginata evelynae (Ryukyu yellow-margined
+            box turtle)
+  ORGANISM  Cuora flavomarginata evelynae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora flavomarginata evelynae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /sub_species="evelynae"
+                     /specimen_voucher="HBS38424 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:204966"
+     gene            1..>1140
+                     /gene="cytb"
+     CDS             1..>1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01265.1"
+                     /db_xref="GI:41353371"
+                     /translation="MTTNLRKTHPMVKIINNSFIDLPSPSNISALWNFGSLLGTCLIL
+                     QIITGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRSMHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVIMNLLSGTPYIGNT
+                     LVQWIWGGFSVDNATLTQFFTFHFLLPFTIAGLAAVHLLFLHETGSNNPTGLNSNADK
+                     IPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTASFRPLTQTLFWCLTADLL
+                     VLTWIGGQPVEDPFITIGQVASILYFMILLTLMPLTGLIENKMLNQ"
+ORIGIN      
+        1 atgaccacaa acctacgaaa aacccaccct atagtaaaaa ttatcaacaa ctcatttatt
+       61 gacctcccaa gcccttctaa catctctgct ttatgaaact tcggatcact actaggcacc
+      121 tgcctaatcc tacagatcat caccggaatc ttcctggcaa tacactattc accagacatc
+      181 tcactagcat tctcatcagt agcccatatc acccgagatg tacagtacgg atgactgatc
+      241 cgcagtatac atgccaacgg ggcctccatc ttcttcatat gcatctacct tcatattggt
+      301 cgaggacttt attatggctc gtacctctac aaagaaacct gaaacacagg aatcatccta
+      361 ctattcctaa ctatagctac tgcattcgta ggctacgtcc taccatgggg ccaaatatca
+      421 ttctgaggtg ccaccgtcat catgaaccta ctctcaggca ccccctacat tggcaatact
+      481 ctcgtacaat gaatttgagg ggggttctca gtagacaatg ccaccttaac tcaattcttc
+      541 acctttcatt ttctactccc cttcaccatc gccggtttag cagctgtaca tttactcttc
+      601 ctccacgaaa ctggatcaaa caacccaaca ggattaaact caaacgctga caaaatcccc
+      661 ttccacccct acttctcata caaagaccta ctaggcctaa tcttaatgct caccctcctg
+      721 ctaaccctag cattattctc cccaaatctt ctaggtgacc cagacaactt cacaccagct
+      781 aacccactat ccactccccc ccacatcaaa ccagaatgat acttcctctt cgcctatgca
+      841 atccttcgat ccatcccaaa caaattagga ggtgtacttg cccttctatc ctccatcctt
+      901 gtattattta taataccaac cctacatacc tcaaaacaac gtacagcttc attccgacca
+      961 ttaacgcaaa ccctcttctg atgtttaaca gctgatctac tagtacttac atgaatcgga
+     1021 ggacaaccag tcgaagatcc attcatcact attggccaag tagcctccat cctatacttc
+     1081 ataattcttt taacacttat acccctcaca ggactaattg aaaacaaaat actaaaccaa
+//
+
+LOCUS       JN860655                 992 bp    DNA     linear   VRT 20-DEC-2014
+DEFINITION  Cuora amboinensis voucher ANUM26080067 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   JN860655
+VERSION     JN860655.1  GI:403309870
+KEYWORDS    .
+SOURCE      mitochondrion Cuora amboinensis (Amboina box turtle)
+  ORGANISM  Cuora amboinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Molecular phylogeny and divergence times of the turtle family
+            Geoemydida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2011) College of Life Science, Anhui Normal
+            University, Beijing East Road No. 1, Wuhu, Anhui 241000, China
+FEATURES             Location/Qualifiers
+     source          1..992
+                     /organism="Cuora amboinensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ANUM26080067"
+                     /db_xref="taxon:74909"
+                     /tissue_type="tail tip muscle"
+                     /collected_by="Xia XQ"
+                     /identified_by="Nie LW"
+     gene            <1..>992
+                     /gene="cytb"
+     CDS             <1..>992
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFR33782.1"
+                     /db_xref="GI:403309871"
+                     /translation="TGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNTHANGASIF
+                     FMCIYLHIGRGLYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITN
+                     LLSATPYIGNTLVQWIWGGFSVDNATLTRFFTFHFLLPFAIAGLAAVHLLFLHETGSN
+                     NPTGLNSNADKIPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLST
+                     PPHIKPEWYFLFAYAILRSIPNKLGGVLALLSSILVLFMVPTLHTSKQRTASFRPLTQ
+                     ILLWCLAADLLVLTWIGGQPVETPFIAIGQAASILYFMIFLTLMPLTGLIENKML"
+ORIGIN      
+        1 acaggaatct tcctggcaat acattactca ccagacatct cactagcatt ttcatcagta
+       61 gcccatatca cccgagatgt acagtacgga tgactgatcc gcaatacaca cgccaacggg
+      121 gcctccatct tcttcatatg catctacctt catattggcc gagggctcta ctacggctca
+      181 tacttataca aagaaacctg aaacacagga atcatcctac tattcctaac tatagctact
+      241 gcattcgtag gctacgtcct accatgaggc caaatatcat tctgaggcgc caccgtcatc
+      301 acaaacctac tctcagccac cccctacatt ggcaataccc ttgtacaatg aatttgagga
+      361 ggattctcag tagacaatgc caccctaact cgattcttca cctttcactt tctactcccc
+      421 ttcgctatcg ctggtctagc agccgtacat ttactcttcc tccacgaaac tggatcaaat
+      481 aatccaacag gattaaactc aaacgctgac aaaatcccct tccaccccta cttctcatac
+      541 aaagacctac taggtctcat cctaatactc accctcctat taaccctagc attattctcc
+      601 ccaaatctct taggcgaccc agacaacttc acaccagcta acccgctatc cactccccct
+      661 catatcaaac cagaatgata cttcctcttc gcctacgcaa tccttcgatc catccccaac
+      721 aaactaggag gtgtacttgc cctcctatcc tccatccttg tactatttat agtaccaacc
+      781 ctgcatacct caaaacaacg cacagcttca ttccgaccat taacccaaat tctcctttga
+      841 tgcttagcag ctgatctgtt agtactcaca tgaatcggag gacaaccagt cgaaacccca
+      901 ttcatcgcta ttggccaagc agcctctatc ctatacttca taatcttttt aacacttata
+      961 ccccttacag gactcattga aaacaaaata ct
+//
+
+LOCUS       JN860654                 992 bp    DNA     linear   VRT 20-DEC-2014
+DEFINITION  Cuora galbinifrons voucher ANUM26080316 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   JN860654
+VERSION     JN860654.1  GI:403309868
+KEYWORDS    .
+SOURCE      mitochondrion Cuora galbinifrons (flowerback box turtle)
+  ORGANISM  Cuora galbinifrons
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Molecular phylogeny and divergence times of the turtle family
+            Geoemydida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2011) College of Life Science, Anhui Normal
+            University, Beijing East Road No. 1, Wuhu, Anhui 241000, China
+FEATURES             Location/Qualifiers
+     source          1..992
+                     /organism="Cuora galbinifrons"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ANUM26080316"
+                     /db_xref="taxon:204968"
+                     /tissue_type="tail tip muscle"
+                     /collected_by="Xia XQ"
+                     /identified_by="Nie LW"
+     gene            <1..>992
+                     /gene="cytb"
+     CDS             <1..>992
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFR33781.1"
+                     /db_xref="GI:403309869"
+                     /translation="TGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNMHANGASIF
+                     FMCIYLHIGRGLYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITN
+                     LLSATPYIGNTLVQWIWGGFSVDNATLTRFFTFHFLLPFTIAGLAAVHLLFLHETGSN
+                     NPTGLNSNADKIPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLST
+                     PPHIKPEWYFLFAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTASFRPLTQ
+                     TLFWCLTADLLVLTWIGGQPVEDPFITIGQMASILYFLILLTLMPLTGLIENKML"
+ORIGIN      
+        1 actggaatct tcctggcaat acactattca ccagacatct cattagcatt ctcatcagta
+       61 gcccatatca cccgagatgt acaatacgga tgactgatcc gcaatataca tgccaacggg
+      121 gcctccatct tcttcatatg catctacctt catattggcc gaggacttta ctatggctca
+      181 tacctttaca aagaaacctg aaacacagga atcatcctac tattcctaac tatagctact
+      241 gcattcgtag gctacgtcct accatggggc caaatatcat tctgaggcgc cactgtcatc
+      301 acgaacctac tctcagccac cccttacatt ggcaatactc tcgtgcaatg aatctgaggg
+      361 ggattttcag tagacaatgc caccttaact cgattcttta ctttccactt tctactcccc
+      421 ttcaccatcg ccggcttagc agctgtgcat ttactcttcc tccacgaaac tggatcaaat
+      481 aacccaacag gattaaactc aaacgctgat aaaatcccct tccaccccta cttctcatac
+      541 aaagacctac taggcctaat cttaatgctc accctcctac taaccctagc actattctcc
+      601 ccaaacctcc taggcgaccc agacaacttt acaccagcta acccactatc cactcccccc
+      661 cacatcaaac cagaatgata cttcctcttc gcctatgcaa tccttcgatc catcccaaac
+      721 aaattaggag gtgtacttgc ccttctatcc tctatccttg tattatttat aataccaacc
+      781 cttcatacct caaaacaacg cacagcttca ttccgaccat taacccaaac cctcttctga
+      841 tgcttaacag ctgatctact agtacttaca tgaatcggag gacaaccagt cgaagatcca
+      901 tttatcacta ttggccaaat agcctccatc ctatacttcc taattctttt aacacttata
+      961 cccctcacag gactaattga aaacaaaata ct
+//
+
+LOCUS       JN860653                 992 bp    DNA     linear   VRT 20-DEC-2014
+DEFINITION  Cuora galbinifrons voucher ANUM26080060 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   JN860653
+VERSION     JN860653.1  GI:403309866
+KEYWORDS    .
+SOURCE      mitochondrion Cuora galbinifrons (flowerback box turtle)
+  ORGANISM  Cuora galbinifrons
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Molecular phylogeny and divergence times of the turtle family
+            Geoemydida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2011) College of Life Science, Anhui Normal
+            University, Beijing East Road No. 1, Wuhu, Anhui 241000, China
+FEATURES             Location/Qualifiers
+     source          1..992
+                     /organism="Cuora galbinifrons"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ANUM26080060"
+                     /db_xref="taxon:204968"
+                     /tissue_type="tail tip muscle"
+                     /collected_by="Xia XQ"
+                     /identified_by="Nie LW"
+     gene            <1..>992
+                     /gene="cytb"
+     CDS             <1..>992
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFR33780.1"
+                     /db_xref="GI:403309867"
+                     /translation="TGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNMHANGASIF
+                     FMCIYLHIGRGLYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITN
+                     LLSATPYIGNTLVQWIWGGFSVDNATLTRFFTFHFLLPFTIAGLAAVHLLFLHETGSN
+                     NPTGLNSNADKIPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLST
+                     PPHIKPEWYFLFAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTASFRPLTQ
+                     TLFWCLTADLLVLTWIGGQPVEDPFITIGQMASILYFLILLTLMPLTGLIENKML"
+ORIGIN      
+        1 actggaatct tcctggcaat acactattca ccagacatct cattagcatt ctcatcagta
+       61 gcccatatca cccgagatgt acaatacgga tgactgatcc gcaatataca tgccaacggg
+      121 gcctccatct tcttcatatg catctacctt catattggcc gaggacttta ctatggctca
+      181 tacctttaca aagaaacctg aaacacagga atcatcctac tattcctaac tatagctact
+      241 gcattcgtag gctacgtcct accatggggc caaatatcat tctgaggcgc cactgtcatc
+      301 acgaacctac tctcagccac cccttacatt ggcaatactc tcgtgcaatg aatctgaggg
+      361 ggattttcag tagacaatgc caccttaact cgattcttta ctttccactt tctactcccc
+      421 ttcaccatcg ccggcttagc agctgtgcat ttactcttcc tccacgaaac tggatcaaat
+      481 aacccaacag gattaaactc aaacgctgat aaaatcccct tccaccccta cttctcatac
+      541 aaagacctac taggcctaat cttaatgctc accctcctac taaccctagc actattctcc
+      601 ccaaacctcc taggcgaccc agacaacttt acaccagcta acccactatc cactcccccc
+      661 cacatcaaac cagaatgata cttcctcttc gcctatgcaa tccttcgatc catcccaaac
+      721 aaattaggag gtgtacttgc ccttctatcc tctatccttg tattatttat aataccaacc
+      781 cttcatacct caaaacaacg cacagcttca ttccgaccat taacccaaac cctcttctga
+      841 tgcttaacag ctgatctact agtacttaca tgaatcggag gacaaccagt cgaagatcca
+      901 tttatcacta ttggccaaat agcctccatc ctatacttcc taattctttt aacacttata
+      961 cccctcacag gactaattga aaacaaaata ct
+//
+
+LOCUS       JN860652                 992 bp    DNA     linear   VRT 20-DEC-2014
+DEFINITION  Cuora mouhotii voucher ANUM26080317 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   JN860652
+VERSION     JN860652.1  GI:403309864
+KEYWORDS    .
+SOURCE      mitochondrion Cuora mouhotii
+  ORGANISM  Cuora mouhotii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Molecular phylogeny and divergence times of the turtle family
+            Geoemydida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2011) College of Life Science, Anhui Normal
+            University, Beijing East Road No. 1, Wuhu, Anhui 241000, China
+FEATURES             Location/Qualifiers
+     source          1..992
+                     /organism="Cuora mouhotii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ANUM26080317"
+                     /db_xref="taxon:260627"
+                     /tissue_type="tail tip muscle"
+                     /collected_by="Xia XQ"
+                     /identified_by="Nie LW"
+     gene            <1..>992
+                     /gene="cytb"
+     CDS             <1..>992
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFR33779.1"
+                     /db_xref="GI:403309865"
+                     /translation="TGIFLAMHYSPDISMAFSSVAHITRDVQYGWLIRNTHANGASIF
+                     FMCIYLHIGRGLYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITN
+                     LLSATPYIGNTLVQWIWGGFSVDNATLTRFFTFHFLLPFTIAGLAAVHLLFLHETGSN
+                     NPTGLNSNADKIPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLST
+                     PPHIKPEWYFLFAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTASFRPLTQ
+                     TLLWCLAADLLMLTWIGGQPVEDPFITIGQVASILYFTLLLTLMPLTGLIENKML"
+ORIGIN      
+        1 accggaatct tcctagcaat acactactca ccagacatct caatagcatt ctcatcagta
+       61 gcccacatca cccgagatgt acaatacgga tgactaatcc gcaatacaca tgccaacgga
+      121 gcctccatct tcttcatatg catctacctt catattggcc gaggacttta ctatggctcg
+      181 tacttataca aagaaacctg aaacacagga atcatcctac tattcctaac tatagctact
+      241 gcattcgtag gttacgtcct accatgaggc caaatatcat tctgaggtgc taccgtcatc
+      301 acaaacctac tctcagccac cccttacatt ggcaatactc ttgtacaatg aatttgaggg
+      361 ggattctcag tagacaatgc caccttaact cgattcttca ccttccactt tctactcccc
+      421 ttcaccatcg ccggtttagc agctgtacat ttactcttcc tccacgaaac tggatcaaat
+      481 aatccaacag gattaaactc aaacgctgac aaaatcccct tccaccccta cttctcatac
+      541 aaagacctat taggtctcat cttaatactc actctcctac taaccctagc attattctcc
+      601 ccaaaccttc taggcgaccc agataacttc acaccagcaa acccattatc cactcccccc
+      661 cacatcaaac cagagtgata cttcctcttc gcctacgcaa ttcttcgatc catcccaaat
+      721 aaattaggag gtgtacttgc ccttctatcc tccatccttg tattatttat aataccaact
+      781 cttcatacct caaaacaacg cacagcttca ttccgaccat taacccaaac cctcctctga
+      841 tgtttagcag ctgatctact aatacttaca tgaatcggag gacaaccagt cgaagatccg
+      901 ttcatcacca ttggccaagt agcctctatc ctatacttca cacttctttt aacacttatg
+      961 ccccttacag ggttaattga aaacaaaata ct
+//
+
+LOCUS       JN860651                 992 bp    DNA     linear   VRT 20-DEC-2014
+DEFINITION  Cuora pani voucher ANUM26080313 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   JN860651
+VERSION     JN860651.1  GI:403309862
+KEYWORDS    .
+SOURCE      mitochondrion Cuora pani (Pan's box turtle)
+  ORGANISM  Cuora pani
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Molecular phylogeny and divergence times of the turtle family
+            Geoemydida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2011) College of Life Science, Anhui Normal
+            University, Beijing East Road No. 1, Wuhu, Anhui 241000, China
+FEATURES             Location/Qualifiers
+     source          1..992
+                     /organism="Cuora pani"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ANUM26080313"
+                     /db_xref="taxon:176193"
+                     /tissue_type="tail tip muscle"
+                     /collected_by="Xia XQ"
+                     /identified_by="Nie LW"
+     gene            <1..>992
+                     /gene="cytb"
+     CDS             <1..>992
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFR33778.1"
+                     /db_xref="GI:403309863"
+                     /translation="TGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNMHANGASIF
+                     FMCIYLHIGRGLYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITN
+                     LLSATPYIGDTLVQWIWGGFSVDNATLTRFFTFHFLLPFAIAGLAAVHLLFLHETGSN
+                     NPTGLNSSADKIPFHPYFSYKDLLGFILLLTLLLTLALFSPNLLGDPDNFTPANPLST
+                     PPHIKPEWYFLFAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTTSFRPLTQ
+                     ILFWCLTADLLMLTWIGGQPVEDPFITIGQTASILYFTILLTLMPLTGLIENKML"
+ORIGIN      
+        1 accggaatct tcctggcaat acactactca ccagacatct cactagcatt ctcatcagtg
+       61 gcccatatca cccgagacgt acagtacgga tgactgatcc gcaatataca tgccaacggg
+      121 gcctccatct tcttcatatg catctatctt catattggtc gaggacttta ctacggctca
+      181 tacctctaca aagaaacctg aaacacggga attatcctac tatttctaac catagctact
+      241 gcattcgtgg gctacgtctt accctgaggc caaatatcat tctgaggtgc taccgtcatc
+      301 acaaacctac tctcagccac cccctacatt ggtgatactc ttgtacaatg aatttgaggg
+      361 ggattctcgg tagacaacgc caccttaact cgattcttca cctttcattt cctactcccc
+      421 ttcgccatcg ccggtttagc agctgtacat ttactcttcc tccacgaaac tggatcaaat
+      481 aatccaacag gattaaactc aagcgctgac aaaatcccct tccaccccta cttttcatac
+      541 aaagacctac taggtttcat cttattgctc accctcctac taaccctagc attattctcc
+      601 ccaaatcttc taggcgaccc agataacttc acacccgcca acccactatc cactcccccc
+      661 cacatcaaac cagaatgata cttcctcttc gcctacgcaa tccttcgatc catcccaaac
+      721 aaattagggg gtgtacttgc ccttctatcc tccatccttg tactatttat aataccaacc
+      781 ctacatacct caaaacagcg tacaacttca ttccgaccat taacccaaat cctcttctga
+      841 tgtttaacag ctgatctatt aatactcaca tgaatcggag gacaaccagt cgaagatcca
+      901 ttcatcacta tcggccaaac agcctccatc ctatacttca caattctttt aacacttata
+      961 cccctcacag ggctaattga aaacaaaata ct
+//
+
+LOCUS       JN860650                 992 bp    DNA     linear   VRT 20-DEC-2014
+DEFINITION  Cuora flavomarginata voucher ANUM26080315 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   JN860650
+VERSION     JN860650.1  GI:403309860
+KEYWORDS    .
+SOURCE      mitochondrion Cuora flavomarginata (Chinese box turtle)
+  ORGANISM  Cuora flavomarginata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Molecular phylogeny and divergence times of the turtle family
+            Geoemydida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2011) College of Life Science, Anhui Normal
+            University, Beijing East Road No. 1, Wuhu, Anhui 241000, China
+FEATURES             Location/Qualifiers
+     source          1..992
+                     /organism="Cuora flavomarginata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ANUM26080315"
+                     /db_xref="taxon:204965"
+                     /tissue_type="tail tip muscle"
+                     /collected_by="Xia XQ"
+                     /identified_by="Nie LW"
+     gene            <1..>992
+                     /gene="cytb"
+     CDS             <1..>992
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFR33777.1"
+                     /db_xref="GI:403309861"
+                     /translation="TGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNMHANGASMF
+                     FMCIYLHIGRGLYYGSYLYKETWNTGIALLFLTMATAFVGYVLPWGQMSFWGATVITN
+                     LLSATPYIGNTLVQWIWGGFSVDNATLTRFFTFHFLLPFAIAGLAAVHLLFLHETGSN
+                     NPTGLNSNTDKIPFHPYFSYKDLLGLILMLALLLTLALFSPNLLGDPDNFTPANPLST
+                     PPHIKPEWYFLFAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTTSFRPLTQ
+                     ILFWCLTADLLVLTWIGGQPVENPFITIGQTASILYFMILLTLMPLTGLIENKML"
+ORIGIN      
+        1 accggaatct tcctggcaat acactactca ccagacatct cactagcctt ctcatcagta
+       61 gcccatatca cccgagacgt acagtacgga tgattaatcc gcaatataca tgccaacggg
+      121 gcctctatat tctttatatg catctacctt catattggtc gaggacttta ctatggctca
+      181 tatctttaca aagaaacctg aaacacagga atcgccctac tattcctaac catagctact
+      241 gcattcgtag gctacgtctt accatgaggc caaatatcat tctgaggtgc caccgtcatc
+      301 actaacctac tctcagccac cccctacatt ggcaatactc ttgtacaatg aatttgaggg
+      361 ggattctcag tagacaatgc caccttaact cgattcttca cctttcattt tctactcccc
+      421 ttcgccatcg ccggtttagc agctgtacat ttactcttcc tccacgaaac tggatcaaac
+      481 aatccaacag gattaaattc aaacactgac aaaatcccct tccaccccta cttctcatac
+      541 aaagacctac taggtctcat tttaatactc gccctattac taactctagc attattttcc
+      601 ccaaatcttc taggcgaccc agataatttc acacctgcta acccactatc cactcccccc
+      661 cacatcaaac cagaatgata cttcctcttc gcctacgcaa tccttcgatc catcccaaac
+      721 aaactaggag gtgtacttgc ccttctatcc tctatccttg tactatttat aataccaact
+      781 ctacacacct caaaacagcg tacaacttca ttccgaccat taacccaaat tctcttctga
+      841 tgtttaacag ctgatctact agtactcaca tgaattggag gacaaccagt cgaaaatcca
+      901 ttcattacta tcggccaaac agcctccatc ctatacttca taattctatt aacacttata
+      961 cccctcacag gactaattga aaacaaaata ct
+//
+
+LOCUS       JN860643                 992 bp    DNA     linear   VRT 20-DEC-2014
+DEFINITION  Cuora flavomarginata voucher ANUM26080314 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   JN860643
+VERSION     JN860643.1  GI:403309846
+KEYWORDS    .
+SOURCE      mitochondrion Cuora flavomarginata (Chinese box turtle)
+  ORGANISM  Cuora flavomarginata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Molecular phylogeny and divergence times of the turtle family
+            Geoemydida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 992)
+  AUTHORS   Nie,W.L. and Xia,Q.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2011) College of Life Science, Anhui Normal
+            University, Beijing East Road No. 1, Wuhu, Anhui 241000, China
+FEATURES             Location/Qualifiers
+     source          1..992
+                     /organism="Cuora flavomarginata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ANUM26080314"
+                     /db_xref="taxon:204965"
+                     /tissue_type="tail tip muscle"
+                     /collected_by="Xia XQ"
+                     /identified_by="Nie LW"
+     gene            <1..>992
+                     /gene="cytb"
+     CDS             <1..>992
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFR33770.1"
+                     /db_xref="GI:403309847"
+                     /translation="TGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNMHANGASMF
+                     FMCIYLHIGRGLYYGSYLYKETWNTGIALLFLTMATAFVGYVLPWGQMSFWGATVITN
+                     LLSATPYIGNTLVQWIWGGFSVDNATLTRFFTFHFLLPFAIAGLAAVHLLFLHETGSN
+                     NPTGLNSNTDKIPFHPYFSYKDLLGLILMLALLLTLALFSPNLLGDPDNFTPANPLST
+                     PPHIKPEWYFLFAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTTSFRPLTQ
+                     ILFWCLTADLLVLTWIGGQPVENPFITIGQTASILYFMILLTLMPLTGLIENKML"
+ORIGIN      
+        1 accggaatct tcctggcaat acactactca ccagacatct cactagcctt ctcatcagta
+       61 gcccatatca cccgagacgt acagtacgga tgattaatcc gcaatataca tgccaacggg
+      121 gcctctatat tctttatatg catctacctt catattggtc gaggacttta ctatggctca
+      181 tatctttaca aagaaacctg aaacacagga atcgccctac tattcctaac catagctact
+      241 gcattcgtag gctacgtctt accatgaggc caaatatcat tctgaggtgc caccgtcatc
+      301 actaacctac tctcagccac cccctacatt ggcaatactc ttgtacaatg aatttgaggg
+      361 ggattctcag tagacaatgc caccttaact cgattcttca cctttcattt tctactcccc
+      421 ttcgccatcg ccggtttagc agctgtacat ttactcttcc tccacgaaac tggatcaaac
+      481 aatccaacag gattaaattc aaacactgac aaaatcccct tccaccccta cttctcatac
+      541 aaagacctac taggtctcat tttaatactc gccctattac taactctagc attattttcc
+      601 ccgaatcttc taggcgaccc agataatttc acacctgcta acccactatc cactcccccc
+      661 cacatcaaac cagaatgata cttcctcttc gcctacgcaa tccttcgatc catcccaaac
+      721 aaactaggag gtgtacttgc ccttctatcc tctatccttg tattatttat aataccaact
+      781 ctacacacct caaaacaacg tacaacttca ttccgaccat taacccaaat tctcttctga
+      841 tgtttaacag ctgatctact agtactcaca tgaattggag gacaaccagt cgaaaatcca
+      901 ttcattacta tcggccaaac agcctccatc ctatacttca taattctatt aacacttata
+      961 cccctcacag gactaattga aaacaaaata ct
+//
+
+LOCUS       JN232525                1071 bp    DNA     linear   VRT 13-MAR-2012
+DEFINITION  Cuora mouhotii cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   JN232525
+VERSION     JN232525.1  GI:379647538
+KEYWORDS    .
+SOURCE      mitochondrion Cuora mouhotii
+  ORGANISM  Cuora mouhotii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1071)
+  AUTHORS   Baruah,C., Shanker,K. and Sharma,D.K.
+  TITLE     Phylogenetic relationships of Indian freshwater turtles and
+            tortoises based on mitochondrial cytochrome b sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1071)
+  AUTHORS   Baruah,C., Shanker,K. and Sharma,D.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2011) Bioinformatics Centre, Department of
+            Zoology, Gauahti University, LGB Nagar, Guwahati, Assam 781014,
+            India
+FEATURES             Location/Qualifiers
+     source          1..1071
+                     /organism="Cuora mouhotii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CEST67"
+                     /db_xref="taxon:260627"
+                     /tissue_type="tail tip"
+                     /country="India: Assam"
+     gene            <1..>1071
+                     /gene="cytb"
+     CDS             <1..>1071
+                     /gene="cytb"
+                     /function="electron carrier activity"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFD04735.1"
+                     /db_xref="GI:379647539"
+                     /translation="PSNISALWNFGSLLGACLILQIITGIFLAMHYSPDISMAFSSVA
+                     HITRDVQYGWLIRNTHANGASIFFMCIYLHIGRGLYYGSYLYKETWNTGIILLFLTMA
+                     TAFVGYVLPWGQMSFWGATVITNLLSATPYIGNTLVQWIWGGFSVDNATLTRFFTFHF
+                     LLPFTIAGLAAVHLLFLHETGSNNPTGLNSNADKIPFHPYFSYKDLLGLILMLTLLLT
+                     LALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFLFAYAILRSIPNKLGGVLALLSSIL
+                     VLFMMPTLHTSKQRTASFRPLTQTLLWCLAADLLMLTWIGGQPVEDPFITIGQVASIL
+                     YFTLLLTLMPLTGLIENKMLNQ"
+ORIGIN      
+        1 gccttctaac atctctgctt tatgaaactt cgggtcacta ctaggcgcct gcctaatcct
+       61 acagatcatc accggaatct tcctagcaat acactactca ccagacatct caatagcatt
+      121 ctcatcagta gcccacatca cccgagatgt acaatacgga tgactaatcc gcaatacaca
+      181 tgccaacgga gcctccatct tcttcatatg catctacctt catattggcc gaggacttta
+      241 ctatggctcg tacttataca aagaaacctg aaacacagga atcatcctac tattcctaac
+      301 tatagctact gcattcgtag gttacgtcct accatgaggc caaatatcat tctgaggtgc
+      361 taccgtcatc acaaacctac tctcagccac cccttacatt ggcaatactc ttgtacaatg
+      421 aatttgaggg ggattctcag tagacaatgc caccttaact cgattcttca ccttccactt
+      481 tctactcccc ttcaccatcg ccggtttagc agctgtacat ttactcttcc tccacgaaac
+      541 tggatcaaat aatccaacag gattaaactc aaacgctgac aaaatcccct tccaccccta
+      601 cttctcatac aaagacctat taggtctcat cttaatactc actctcctac taaccctagc
+      661 attattctcc ccaaaccttc taggcgaccc agataacttc acaccagcca acccattatc
+      721 cactcccccc cacatcaaac cagaatgata cttcctcttc gcctacgcaa ttcttcgatc
+      781 catcccaaat aaattaggag gtgtacttgc ccttctatcc tccatccttg tattatttat
+      841 aataccaact cttcatacct caaaacaacg cacagcttca ttccgaccat taacccaaac
+      901 cctcctctga tgtttagcag ctgatctact aatacttaca tgaatcggag gacaaccagt
+      961 cgaagatccg ttcatcacca ttggccaagt agcctctatc ctatacttca cacttctttt
+     1021 aacacttatg ccccttacag ggttaattga aaacaaaata ctaaaccaaa a
+//
+
+LOCUS       JN232524                1048 bp    DNA     linear   VRT 13-MAR-2012
+DEFINITION  Cuora amboinensis cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   JN232524
+VERSION     JN232524.1  GI:379647536
+KEYWORDS    .
+SOURCE      mitochondrion Cuora amboinensis (Amboina box turtle)
+  ORGANISM  Cuora amboinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1048)
+  AUTHORS   Baruah,C., Shanker,K. and Sharma,D.K.
+  TITLE     Phylogenetic relationships of Indian freshwater turtles and
+            tortoises based on mitochondrial cytochrome b sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1048)
+  AUTHORS   Baruah,C., Shanker,K. and Sharma,D.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2011) Bioinformatics Centre, Department of
+            Zoology, Gauahti University, LGB Nagar, Guwahati, Assam 781014,
+            India
+FEATURES             Location/Qualifiers
+     source          1..1048
+                     /organism="Cuora amboinensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CEST03"
+                     /db_xref="taxon:74909"
+                     /tissue_type="tail tip"
+                     /country="India: Assam"
+     gene            <1..1046
+                     /gene="cytb"
+     CDS             <1..1046
+                     /gene="cytb"
+                     /function="electron carrier activity"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFD04734.1"
+                     /db_xref="GI:379647537"
+                     /translation="NFGSLLGTCLILQIITGIFLAMHYSPDISLAFSSVAHITRDVQY
+                     GWLIRNTHANGASIFFMCIYLHIGRGLYYGSYLYKETWNTGIILLLLTMATAFVGYVL
+                     PWGQMSFWGATVITNLLSATPYIGNTLVQWIWGGFSVDNATLTRFFTFHFLLPFAIAG
+                     LAAVHLLFLHETGSNNPTGLNSNADKIPFHPYFSYKDLLGLILMLTLLLTLTLFSPNL
+                     LGDPDNFTPANPLSTPPHIKPEWYFLFAYAILRSIPNKLGGVLALLSSILVLFMVPTL
+                     HTSKQRTASFRPLTQILLWCLTADLLVLTWIGGQPVENPFITIGQAASILYFMIFLTL
+                     MPLTGLIENKMLN"
+ORIGIN      
+        1 gaaacttcgg atcattacta ggcacctgcc taatccttca aatcatcaca ggaatcttcc
+       61 tggcaataca ctactcacca gacatctcac tagcattttc atcagtggcc catatcaccc
+      121 gagatgtaca atacggatga ctgatccgca atacacatgc caacggggcc tccatcttct
+      181 tcatatgcat ctaccttcat atcggccgag ggctctacta cggctcatat ctatacaaag
+      241 aaacctgaaa cacaggaatc atcttactac tcctaactat agctactgca ttcgtaggct
+      301 acgtcctacc atgaggccaa atatcattct gaggcgccac cgtcatcaca aacctactct
+      361 cagccacccc ctacattggc aatactcttg tacaatgaat ttgagggggg ttttcagtag
+      421 acaatgccac cctaactcga ttcttcacct ttcactttct actccccttc gctatcgctg
+      481 gtttagcagc cgtacattta ctcttcctcc atgaaactgg atcaaataat ccaacaggat
+      541 taaactcaaa cgctgacaaa atccccttcc acccctactt ctcatacaaa gacctactag
+      601 gtcttatcct aatactcacc ctcctattaa ccctaacatt attctcccca aacctcctgg
+      661 gcgacccaga caacttcaca ccagctaacc cgttatccac tccccctcac atcaaaccag
+      721 aatgatactt cctcttcgcc tacgcaatcc ttcgatccat ccccaacaaa ctaggaggtg
+      781 tacttgccct cctatcctcc atccttgtac tatttatagt acctacccta catacctcaa
+      841 aacaacgcac agcttcattc cgaccattaa cccaaattct cctttgatgc ttaacagctg
+      901 acctactagt actcacatgg atcggaggac aaccagtcga aaacccattc atcactattg
+      961 gccaagcagc ctctatccta tacttcataa tctttttaac acttataccc cttacaggac
+     1021 tcattgaaaa caaaatacta aactaaaa
+//
+
+LOCUS       AY434627                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora trifasciata cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   AY434627
+VERSION     AY434627.1  GI:41353412
+KEYWORDS    .
+SOURCE      mitochondrion Cuora trifasciata (three-banded box turtle)
+  ORGANISM  Cuora trifasciata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora trifasciata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /specimen_voucher="HBS38445 (H. B. Shaffer, U. California,
+                     Davis); MVZ230636 (Museum of Vertebrate Zoology,
+                     Berkeley)"
+                     /db_xref="taxon:176192"
+     gene            1..>1140
+                     /gene="cytb"
+     CDS             1..>1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01286.1"
+                     /db_xref="GI:41353413"
+                     /translation="MTPNLRKTHPMVKIINNSFIDLPSPSNISALWNFGSLLGACLIL
+                     QIITGIFLAMHYSPDISLAFSSVAHITRDVQHGWLIRNMHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGDT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFTIAGLAAVHLLFLHETGSNNPTGLNSSADK
+                     IPFHPYFSYKDLLGFILLLTLLLTLALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTTSFRPLTQILFWCLTADLL
+                     MLTWIGGHPVEDPPITIGQTASILYFTILLTLLPLTGLIENQMLNQ"
+ORIGIN      
+        1 atgaccccaa acctgcgaaa aacccacccc atagtaaaaa ttatcaacaa ctcatttatc
+       61 gatctaccaa gcccttctaa catctctgct ttatgaaact tcggatcact attaggcgcc
+      121 tgcctaatcc tacagatcat caccggaatc ttcctagcaa tacactactc accagacatc
+      181 tcactagcat tctcatcagt agcccacatc acccgagacg tacagcacgg atgactgatc
+      241 cgcaatatac atgccaacgg ggcctccatc ttcttcatat gcatctacct tcatattggc
+      301 cgaggacttt attacggctc atacctctac aaagaaacct gaaacacggg aattatccta
+      361 ctatttctaa ccatagctac tgcattcgta ggctacgtct taccctgagg ccaaatatca
+      421 ttctgaggtg ctaccgtcat cacaaaccta ctctcagcca ccccctacat tggtgatact
+      481 ctcgtacaat gaatttgagg aggattctca gtagacaacg ccaccttaac tcgattcttc
+      541 acctttcatt tcctactccc cttcaccatc gccggtttag cagctgtaca tttactcttc
+      601 ctccacgaaa ctggatcaaa taatccaaca ggattaaact caagcgctga caaaatcccc
+      661 ttccacccct acttttcata caaagaccta ctaggtttca tcttattgct caccctccta
+      721 ctaaccctag cattattctc cccaaacctt ctaggcgacc cagataactt cacacccgcc
+      781 aacccactat ccactccccc ccacatcaaa ccagaatgat acttcctctt cgcctacgca
+      841 atccttcgat ccatcccaaa caaattaggg ggtgtacttg cccttctatc ttccatcctt
+      901 gtactattta taataccaac cctacatacc tcaaaacaac gtacaacttc attccgacca
+      961 ttaacccaaa tcctcttctg atgtttaaca gctgatctac ttatactcac atgaatcgga
+     1021 ggacacccag tagaagatcc acccatcact attggccaaa cagcctccat cctatacttc
+     1081 acaattcttt taacacttct acccctcaca gggctcattg aaaaccaaat actaaaccaa
+//
+
+LOCUS       AY434626                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora aurocapitata cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   AY434626
+VERSION     AY434626.1  GI:41353410
+KEYWORDS    .
+SOURCE      mitochondrion Cuora aurocapitata
+  ORGANISM  Cuora aurocapitata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora aurocapitata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /specimen_voucher="HBS38444 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:72008"
+     gene            1..>1140
+                     /gene="cytb"
+     CDS             1..>1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01285.1"
+                     /db_xref="GI:41353411"
+                     /translation="MTANLRKTHPMVKIINNSFIDLPSPSNISALWNFGSLLGACLIL
+                     QIITGVFLAMHYSPDISLAFSSVAHITRDVQHGWLIRNMHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGDT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFTIAGLAAVHLLFLHETGSNNPTGLNSSADK
+                     IPFHPYFSYKDLLGFILLLTLLLTLALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTTSFRPLTQILFWCLTADLL
+                     MLTWIGGQPVEDPFITIGQTASILYFTILLTLLPLTGLIENKMLNQ"
+ORIGIN      
+        1 atgaccgcaa acctgcgaaa aacccacccc atagtaaaaa ttatcaacaa ctcatttatc
+       61 gatctcccaa gcccttctaa catctctgct ttatgaaact tcggatcact attaggcgcc
+      121 tgcctaatcc tacagatcat caccggagtc ttcctagcaa tacactactc accagacatc
+      181 tcactagcat tctcatcagt agcccacatc acccgagacg tacagcacgg atgactgatc
+      241 cgcaatatac atgccaacgg ggcctccatc ttcttcatat gcatctacct tcatattggc
+      301 cgaggacttt attacggctc atacctctac aaagaaacct gaaacacggg aattatccta
+      361 ctatttctaa ccatagctac tgcattcgta ggctacgtct taccctgagg ccaaatatca
+      421 ttctgaggtg ctaccgtcat cacaaaccta ctctcagcca ccccctacat tggcgatact
+      481 cttgtacaat gaatttgagg aggattctca gtagacaacg ccaccttaac tcgattcttc
+      541 acctttcatt tcctactccc cttcaccatc gccggtttag cagctgtaca tttactcttc
+      601 ctccacgaaa ctggatcaaa taatccaaca ggattaaact caagcgctga caaaatcccc
+      661 ttccacccct acttttcata caaagaccta ctaggtttca tcttattgct caccctccta
+      721 ctaaccctag cattattctc cccaaacctt ctaggcgacc cagataactt cacacccgcc
+      781 aacccactat ccactccccc ccacatcaaa ccagaatgat acttcctctt cgcctacgca
+      841 atccttcgat ccatcccaaa caaattaggg ggtgtacttg cccttctatc ttccatcctt
+      901 gtactattta taataccaac cctacatacc tcaaaacaac gtacaacttc attccgacca
+      961 ttaacccaaa tcctcttctg atgtttaaca gctgatctac ttatactcac atgaatcgga
+     1021 ggacaaccag tagaagatcc attcatcact atcggccaaa cagcctccat cctatacttc
+     1081 acaattcttt taacacttct acccctcaca gggctcattg aaaacaaaat attaaaccaa
+//
+
+LOCUS       AY434624                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora serrata cytochrome b (cytb) gene, partial cds; mitochondrial.
+ACCESSION   AY434624
+VERSION     AY434624.1  GI:41353406
+KEYWORDS    .
+SOURCE      mitochondrion Cuora serrata
+  ORGANISM  Cuora serrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora serrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /specimen_voucher="HBS38442 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:176191"
+     gene            1..>1140
+                     /gene="cytb"
+     CDS             1..>1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01283.1"
+                     /db_xref="GI:41353407"
+                     /translation="MATNLRKTHPMVKIINNSFIDLPSPSNISALWNFGSLLGACLIL
+                     QIITGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNMHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGNT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFTIAGLAAVHLLFLHETGSNNPTGLNSNADK
+                     IPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTASFRPLTQTLFWCLAADLL
+                     VLTWIGGQPVEDPFITIGQAASILYFTILLTLMPLTGLIENKMLTH"
+ORIGIN      
+        1 atggccacaa atctacgaaa aacccaccct atagtaaaaa ttatcaacaa ctcatttatt
+       61 gacctcccaa gcccttctaa catctctgct ttatgaaact tcggatcact actaggcgcc
+      121 tgcctaatcc tacagatcat caccggaatc ttcctggcaa tacactattc accagacatc
+      181 tcactagcat tctcatcagt agcccatatc acccgagatg tacagtacgg atgactgatc
+      241 cgcaatatac atgccaacgg ggcctccatc ttcttcatat gcatctacct tcatattggc
+      301 cgaggacttt actatggctc gtacctatac aaagaaacct gaaacacagg aatcatccta
+      361 ctattcctaa ctatagctac tgcattcgta ggctacgtcc taccatgagg ccaaatatca
+      421 ttctgaggtg ccaccgtcat cacgaaccta ctctcagcca ccccctacat tggcaatact
+      481 cttgtacaat gaatttgagg gggattctca gtagacaatg ccaccttaac tcgattcttc
+      541 acctttcatt ttctactccc cttcaccatc gccggtttag cagctgtaca tttactcttc
+      601 ctccacgaaa ctggatcaaa taatccaaca ggattaaact caaacgctga caaaatcccc
+      661 ttccacccct acttctcata caaagaccta ctaggcctaa tcttaatgct caccctccta
+      721 ctaaccctag cattattctc cccaaacctt ctaggcgacc cagataactt cacaccagct
+      781 aacccactat ccactcctcc ccatatcaaa ccagaatgat acttcctctt cgcctacgca
+      841 atccttcgat ccatcccaaa caaattagga ggtgtacttg cccttctatc ctccatcctt
+      901 gtattattta taataccaac cctacatacc tcaaaacaac gtacagcttc attccgacca
+      961 ttaacccaaa ccctcttctg atgtttagca gctgatctac tagtacttac atgaatcgga
+     1021 ggacaaccag tcgaagatcc attcatcact attggccaag cagcctccat cctatacttc
+     1081 acaattcttt taacacttat acccctcaca gggttaattg aaaacaaaat actaacccat
+//
+
+LOCUS       AY434620                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora amboinensis lineata cytochrome b (cytb) gene, complete cds;
+            mitochondrial.
+ACCESSION   AY434620
+VERSION     AY434620.1  GI:41353398
+KEYWORDS    .
+SOURCE      mitochondrion Cuora amboinensis lineata
+  ORGANISM  Cuora amboinensis lineata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora amboinensis lineata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /sub_species="lineata"
+                     /specimen_voucher="HBS38438 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:260632"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01279.1"
+                     /db_xref="GI:41353399"
+                     /translation="MTMNLRKTHPMVKIINNSFIDLPSPSNISALWNFGSLLGICLIL
+                     QITTGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNTHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGNT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFAIAGLAAVHLLFLHETGSNNPTGLNSNADK
+                     IPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMVPTLHTSKQRTASFRPLTQILLWCLAADLL
+                     VLTWIGGQPVEDPFITIGQTASILYFMIFLTLMPLTGLIENKMLN"
+ORIGIN      
+        1 atgaccataa atctacgaaa aacccacccc atagtaaaaa tcatcaacaa ctcatttatt
+       61 gatctcccaa gcccttctaa tatctctgct ctatgaaact tcggatcatt actaggtatc
+      121 tgcctaatcc ttcaaatcac cacaggaatc ttcctggcaa tacactactc accagacatc
+      181 tcactagcat tttcatcagt agcccatatc acccgagacg tacagtacgg atgactaatc
+      241 cgcaatacac atgccaatgg ggcctccatc ttcttcatat gcatctacct tcatattggt
+      301 cgaggactct actacggctc atacctatac aaagaaacct gaaacacagg aatcatctta
+      361 ctattcctaa ctatagctac tgcgttcgta ggctacgtcc taccatgagg ccaaatatca
+      421 ttctgaggcg ctaccgtcat cacaaaccta ctctcagcca ccccttacat tggcaatact
+      481 ctcgtacaat gaatctgagg ggggttctca gtagacaacg ccaccctaac tcgattcttc
+      541 acctttcact ttctactccc attcgctatc gctggtctag cagccgtaca tctactcttc
+      601 ctccacgaaa ctggatcaaa taacccaaca ggattaaact caaacgctga caagatcccc
+      661 ttccacccct acttctcata caaagaccta ctaggcctca tcctaatact caccctcctg
+      721 ttaaccctag cattattctc cccaaatctc ctaggcgacc cagacaactt cacaccagct
+      781 aacccgctat ccactccccc tcatatcaaa ccagaatgat acttcctctt cgcctacgca
+      841 atccttcgat ccatcccaaa caaactggga ggcgtacttg ccctcctatc ctccatcctt
+      901 gtactattta tagtaccaac cctacatacc tcaaaacaac gcacagcctc attccgacca
+      961 ttaacccaaa tcctcctctg atgcttagca gctgatctat tagtactcac atgaatcgga
+     1021 ggacaaccag tcgaagaccc attcatcact attggccaaa cagcctctat cctgtacttc
+     1081 ataatcttcc taacacttat accccttaca ggactcattg aaaacaaaat actaaactaa
+//
+
+LOCUS       AY434604                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora mouhotii cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   AY434604
+VERSION     AY434604.1  GI:41353366
+KEYWORDS    .
+SOURCE      mitochondrion Cuora mouhotii
+  ORGANISM  Cuora mouhotii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora mouhotii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /specimen_voucher="HBS38422 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:260627"
+     gene            1..>1140
+                     /gene="cytb"
+     CDS             1..>1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01263.1"
+                     /db_xref="GI:41353367"
+                     /translation="MTTNLRKTHPMAKIINNSFIDLPSPSNISALWNFGSLLGACLIL
+                     QIITGIFLAMHYSPDISMAFSSVAHITRDVQYGWLIRNTHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGNT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFTIAGLAAVHLLFLHETGSNNPTGLNSNADK
+                     IPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTASFRPLTQTLLWCLAADLL
+                     MLTWIGGQPVEDPFITIGQVASILYFTLLLTLMPLTGLIENKMLNQ"
+ORIGIN      
+        1 atgaccacaa atttgcgaaa aacccacccc atagcaaaaa ttatcaacaa ctcatttatc
+       61 gatctcccaa gcccttctaa catctctgct ttatgaaact tcgggtcact actaggcgcc
+      121 tgcctaatcc tacagatcat caccggaatc ttcctagcaa tacactactc accagacatc
+      181 tcaatagcat tctcatcagt agcccacatc acccgagatg tacaatacgg atgactaatc
+      241 cgcaatacac atgccaacgg agcctccatc ttcttcatat gcatctacct tcatattggc
+      301 cgaggacttt actatggctc gtacttatac aaagaaacct gaaacacagg aatcatccta
+      361 ctattcctaa ctatagctac tgcattcgta ggttacgtcc taccatgagg ccaaatatca
+      421 ttctgaggtg ctaccgtcat cacaaaccta ctctcagcca ccccttacat tggcaatact
+      481 cttgtacaat gaatttgagg gggattctca gtagacaatg ccaccttaac tcgattcttc
+      541 accttccact ttctactccc cttcaccatc gccggtttag cagctgtaca tttactcttc
+      601 ctccacgaaa ctggatcaaa taatccaaca ggattaaact caaacgctga caaaatcccc
+      661 ttccacccct acttctcata caaagaccta ttaggtctca tcttaatact cactctccta
+      721 ctaaccctag cattattctc cccaaacctt ctaggcgacc cagataactt cacaccagcc
+      781 aacccattat ccactccccc ccacatcaaa ccagaatgat acttcctctt cgcctacgca
+      841 attcttcgat ccatcccaaa taaattagga ggtgtacttg cccttctatc ctccatcctt
+      901 gtattattta taataccaac tcttcatacc tcaaaacaac gcacagcttc attccgacca
+      961 ttaacccaaa ccctcctctg atgtttagca gctgatctac taatacttac atgaatcgga
+     1021 ggacaaccag tcgaagatcc gttcatcacc attggccaag tagcctctat cctatacttc
+     1081 acacttcttt taacacttat gccccttaca gggttaattg aaaacaaaat actaaaccaa
+//
+
+LOCUS       AY434584                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora zhoui cytochrome b (cytb) gene, partial cds; mitochondrial.
+ACCESSION   AY434584
+VERSION     AY434584.1  GI:41353326
+KEYWORDS    .
+SOURCE      mitochondrion Cuora zhoui (Zhou's box turtle)
+  ORGANISM  Cuora zhoui
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora zhoui"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /specimen_voucher="HBS38402 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:204956"
+     gene            1..>1140
+                     /gene="cytb"
+     CDS             1..>1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01243.1"
+                     /db_xref="GI:41353327"
+                     /translation="MTTNLRKTHPMVKIINNSFIDLPSPSNISALWNFGSLLGACLIL
+                     QIITGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNMHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGDT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFTIASLAAVHLLFLHETGSNNPTGLNSSADK
+                     IPFHPYFSYKDLLGFILMLTLLLILALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTASFRPLTQILFWCLTADLL
+                     MLTWIGGQPVEDPFITIGQTASILYFTILLTLMPLTGLIENKMLNQ"
+ORIGIN      
+        1 atgaccacaa acctgcgaaa aacccacccc atagtaaaaa ttatcaacaa ctcatttatc
+       61 gatctcccaa gcccttctaa catctctgct ttatgaaact tcggatcact actaggcgcc
+      121 tgcctaatcc tacagatcat caccggaatc ttcctggcaa tacactactc accagacatc
+      181 tcactagcat tctcatcagt agcccatatc acccgagatg tacagtacgg atgactgatc
+      241 cgcaatatgc atgccaacgg ggcctctatc ttcttcatat gcatctacct tcatattggt
+      301 cgaggacttt actacggctc atacctctat aaagaaacct gaaacacggg aattatccta
+      361 ctatttctaa ccatagctac tgcattcgta ggctacgtct taccctgagg ccaaatatca
+      421 ttctgaggtg ccaccgtcat cacaaaccta ctctcagcca ccccctacat tggtgatact
+      481 cttgtacaat gaatttgagg aggattctca gtagacaacg ccaccttaac tcgattcttc
+      541 acctttcatt tcctactccc cttcaccatc gccagtttag cagctgtaca tttactcttc
+      601 ctccacgaaa ctggatcaaa taatccaaca ggattaaact caagcgctga caaaatcccc
+      661 ttccacccct acttttcata caaagaccta ctaggtttca tcttaatgct caccctccta
+      721 ctaatcctag cattattctc cccaaatctc ctaggcgacc cagataactt cacacccgcc
+      781 aacccactat ccactcctcc ccacatcaaa ccagaatgat acttcctctt cgcctacgca
+      841 atccttcgat ccatcccaaa caaattaggg ggtgtacttg cccttctatc ctccatcctt
+      901 gtattattta taataccaac cctacatacc tcaaaacaac gtacagcttc attccgacca
+      961 ttaacccaaa tcctcttctg atgcttaaca gctgatctac taatactcac atgaatcgga
+     1021 ggacaaccag tcgaagatcc attcatcact atcggccaaa cagcctccat cctatacttc
+     1081 acaattcttt taacacttat acccctcaca gggctaattg aaaacaaaat actaaaccaa
+//
+
+LOCUS       AY434581                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora amboinensis couro cytochrome b (cytb) gene, complete cds;
+            mitochondrial.
+ACCESSION   AY434581
+VERSION     AY434581.1  GI:41353320
+KEYWORDS    .
+SOURCE      mitochondrion Cuora amboinensis couro
+  ORGANISM  Cuora amboinensis couro
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora amboinensis couro"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /sub_species="couro"
+                     /specimen_voucher="HBS38399 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:260619"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01240.1"
+                     /db_xref="GI:41353321"
+                     /translation="MTMNLRKTHPMVKIINNSFIDLPSPSNISALWNFGSLLGTCLIL
+                     QITTGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNTHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGNT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFAIAGLAAVHLLFLHETGSNNPTGLNSNADK
+                     IPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMVPTLHTSKQRTASFRPLTQILLWCLAADLL
+                     VLTWIGGQPVEDPFITIGQTASILYFMIFLTLMPLTGLIENKMLN"
+ORIGIN      
+        1 atgaccataa atctacgaaa aacccaccct atagtaaaaa ttatcaacaa ctcatttatt
+       61 gacctcccaa gcccttctaa catctctgcc ctatgaaact tcggatcatt actaggcacc
+      121 tgcctaatcc ttcagatcac cacaggaatc ttcctggcaa tacattactc accagacatc
+      181 tcactagcat tttcatcagt agcccatatc acccgagatg tacagtacgg atgactgatc
+      241 cgcaatacac acgctaacgg ggcctccatc ttcttcatat gcatctacct tcatattggc
+      301 cgaggactct actacggctc atacttatac aaagaaacct gaaacacagg aatcatcttg
+      361 ctattcctaa ctatagccac tgcattcgta ggctacgtcc taccatgagg ccaaatatca
+      421 ttctgaggcg ccaccgtcat cacaaaccta ctctcagcca ccccctacat tggcaacact
+      481 cttgtacaat gaatttgagg ggggttctca gtagacaatg ccaccctaac tcgattcttc
+      541 acctttcatt ttctactccc cttcgctatc gctggtctag cagccgtaca tttactcttc
+      601 ctccacgaaa ctggatcaaa taatccaaca ggattaaact caaacgctga caaaatcccc
+      661 ttccacccct acttctcata caaagaccta ctaggtctca tcctaatact caccctccta
+      721 ttaaccctag cattattctc cccaaatctc ctaggcgacc cagacaactt cacaccagct
+      781 aacccactat ccactccccc tcatatcaaa ccagaatgat acttcctctt cgcctacgca
+      841 atccttcgat ccatcccaaa caaaytagga ggtgtacttg ccctcctatc ctccatcctt
+      901 gtactattta tagtaccaac cctrcatacc tcaaaacaac gcacagcttc attccgacca
+      961 ttaacccaaa ttctcctctg atgcttagca gctgatctrt tagtactcac atggatcgga
+     1021 ggacaaccag tcgaagaccc attcatcact atcggccaaa cagcctctat cctatacttc
+     1081 ataatcttct taacacttat accccttaca ggactcattg aaaacaaaat actaaactaa
+//
+
+LOCUS       AY434580                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora amboinensis amboinensis cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   AY434580
+VERSION     AY434580.1  GI:41353318
+KEYWORDS    .
+SOURCE      mitochondrion Cuora amboinensis amboinensis
+  ORGANISM  Cuora amboinensis amboinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora amboinensis amboinensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /sub_species="amboinensis"
+                     /specimen_voucher="HBS38398 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:232860"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01239.1"
+                     /db_xref="GI:41353319"
+                     /translation="MTVNLRKTHPMVKIINNSFIDLPSPSNISALWNFGSLLGTCLIL
+                     QIITGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNTHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLLLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGNT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFAIAGLAAVHLLFLHETGSNNPTGLNSNADK
+                     IPFHPYFSYKDLLGLILMLTLLLTLTLFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMVPTLHTSKQRTASFRPLTQILLWCLTADLL
+                     VLTWIGGQPVENPFITIGQAASILYFMIFLTLMPLTGLIENKMLN"
+ORIGIN      
+        1 atgactgtaa atctacgaaa aacccaccct atagtaaaaa ttatcaacaa ctcattcatt
+       61 gatctcccaa gcccctctaa catctctgct ttatgaaact tcggatcatt actaggcacc
+      121 tgcctaatcc ttcaaatcat cacaggaatc ttcctggcaa tacactactc accagacatc
+      181 tcactagcat tttcatcagt ggcccatatc acccgagatg tacaatacgg atgactgatc
+      241 cgcaatacac atgccaacgg ggcctccatc ttcttcatat gcatctacct tcatatcggc
+      301 cgagggctct actacggctc atatctatac aaagaaacct gaaacacagg aatcatctta
+      361 ctactcctaa ctatagctac tgcattcgta ggctacgtcc taccatgagg ccaaatatca
+      421 ttctgaggcg ccaccgtcat cacaaaccta ctctcagcca ccccctacat tggcaatact
+      481 cttgtacaat gaatttgagg ggggttttca gtagacaatg ccaccctaac tcgattcttc
+      541 acctttcact ttctactccc cttcgctatc gctggtttag cagccgtaca tttactcttc
+      601 ctccatgaaa ctggatcaaa taatccaaca ggattaaact caaacgctga caaaatcccc
+      661 ttccacccct acttctcata caaagaccta ctaggtctta tcctaatact caccctccta
+      721 ttaaccctaa cattattctc cccaaacctc ctgggcgacc cagacaactt cacaccagct
+      781 aacccgttat ccactccccc tcacatcaaa ccagaatgat acttcctctt cgcctacgca
+      841 atccttcgat ccatccccaa caaactagga ggtgtacttg ccctcctatc ctccatcctt
+      901 gtactattta tagtacctac cctacatacc tcaaaacaac gcacagcttc attccgacca
+      961 ttaacccaaa ttctcctttg atgcttaaca gctgacctac tagtactcac atggatcgga
+     1021 ggacaaccag tcgaaaaccc attcatcact attggccaag cagcctctat cctatacttc
+     1081 ataatctttt taacacttat accccttaca ggactcattg aaaacaaaat actaaactaa
+//
+
+LOCUS       AY434576                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora picturata cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   AY434576
+VERSION     AY434576.1  GI:41353310
+KEYWORDS    .
+SOURCE      mitochondrion Cuora picturata (Vietnamese box turtle)
+  ORGANISM  Cuora picturata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora picturata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /specimen_voucher="HBS38448 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:241440"
+     gene            1..>1140
+                     /gene="cytb"
+     CDS             1..>1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01235.1"
+                     /db_xref="GI:41353311"
+                     /translation="MTTNLRKTHPMIKIINNSFIDLPSPSNISALWNFGSLLGTCLIL
+                     QIITGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNMHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGNT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFTIAGLAAVHLLFLHETGSNNPTGLNSNTDK
+                     IPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLSDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMMPTLHTSKQRTASFRPLTQTLFWCLAADLL
+                     VLTWIGGQPVEDPFITIGQVASILYFLILLTLMPLTGLIENKMLNQ"
+ORIGIN      
+        1 atgaccacaa acctacgaaa aacccaccct ataattaaaa ttatcaacaa ctcatttatt
+       61 gacctcccaa gcccctctaa catctctgct ttatgaaact tcggatcact actaggcacc
+      121 tgcctaatcc tacagatcat cactggaatc ttcctagcaa tacactattc accagatatc
+      181 tcactagcat tctcatcagt agcccatatc acccgagacg tacagtacgg atgactgatc
+      241 cgcaacatac atgccaacgg ggcttccatc ttcttcatat gcatctacct tcatattggc
+      301 cgaggacttt actatggctc atacctctac aaagaaacct gaaacacagg aatcatccta
+      361 ctattcctaa ctatagctac tgcattcgta ggctacgtcc taccatgagg ccaaatatca
+      421 ttctgagggg ccaccgtcat cacgaaccta ctctcagcca ccccttacat tggcaatact
+      481 cttgtacaat gaatttgagg gggattctca gtagacaatg ccaccttaac tcgattcttt
+      541 actttccatt tcctactccc cttcaccatt gccggtttag cagctgtaca tttactcttc
+      601 ctccacgaaa ctggatcaaa taacccaaca ggattaaact caaacactga caaaatccca
+      661 ttccacccct acttctcata caaagaccta ctaggcctaa tcttaatact caccctacta
+      721 ctgactctag cattattctc cccaaacctc ctaagcgacc cagacaactt cacaccagct
+      781 aacccattat ccactccccc ccacatcaaa ccagagtgat acttcctctt cgcctatgca
+      841 atccttcgat ccattccaaa caaattagga ggtgtacttg cccttctatc ctccatcctc
+      901 gtattattta taataccaac cctacatacc tcaaaacaac gtacagcctc attccgacca
+      961 ttaacccaaa ccctcttctg atgtttagca gctgatctac tagtacttac atgaatcgga
+     1021 ggacaaccag tcgaagatcc attcatcact attggccaag tagcctctat cctatacttc
+     1081 ctaattcttt taacacttat acctctcaca ggactaattg aaaacaaaat actaaaccaa
+//
+
+LOCUS       AY434575                1140 bp    DNA     linear   VRT 26-JAN-2010
+DEFINITION  Cuora amboinensis kamaroma cytochrome b (cytb) gene, complete cds;
+            mitochondrial.
+ACCESSION   AY434575
+VERSION     AY434575.1  GI:41353308
+KEYWORDS    .
+SOURCE      mitochondrion Cuora amboinensis kamaroma
+  ORGANISM  Cuora amboinensis kamaroma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Geoemydidae; Geoemydinae; Cuora.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Bradley Shaffer,H., Iverson,J.B. and McCord,W.P.
+  TITLE     Phylogenetic hypotheses for the turtle family Geoemydidae
+  JOURNAL   Mol. Phylogenet. Evol. 32 (1), 164-182 (2004)
+   PUBMED   15186805
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Spinks,P.Q., Shaffer,H.B., McCord,W.P. and Iverson,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2003) Section of Evolution and Ecology,
+            University of California, 2320 Storer Hall, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Cuora amboinensis kamaroma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="pet trade"
+                     /sub_species="kamaroma"
+                     /specimen_voucher="HBS38394 (H. B. Shaffer, U. California,
+                     Davis)"
+                     /db_xref="taxon:260617"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAS01234.1"
+                     /db_xref="GI:41353309"
+                     /translation="MTMNLRKTHPMVKIINNSFIDLPSPSNISALWNFGSLLGTCLIL
+                     QITTGIFLAMHYSPDISLAFSSVAHITRDVQYGWLIRNTHANGASIFFMCIYLHIGRG
+                     LYYGSYLYKETWNTGIILLFLTMATAFVGYVLPWGQMSFWGATVITNLLSATPYIGNT
+                     LVQWIWGGFSVDNATLTRFFTFHFLLPFAIAGLAAVHLLFLHETGSNNPTGLNSNADK
+                     IPFHPYFSYKDLLGLILMLTLLLTLALFSPNLLGDPDNFTPANPLSTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALLSSILVLFMVPTLHTSKQRTASFRPLTQILLWCLAADLL
+                     VLTWIGGQPVENPFITIGQAASILYFMIFLTLMPLTGLIENKMLN"
+ORIGIN      
+        1 atgaccataa atctacgaaa aacccaccct atagtaaaaa ttatcaacaa ctcatttatt
+       61 gacctcccaa gcccttctaa catctctgct ctatgaaact tcggatcatt actaggcacc
+      121 tgcctaatcc ttcagatcac cacaggaatc ttcctggcaa tacattactc accagacatc
+      181 tcactagcat tttcatcagt agcccatatc acccgagatg tacagtacgg atgactgatc
+      241 cgcaatacac acgccaacgg ggcctccatc ttcttcatat gcatctacct tcatattggc
+      301 cgagggctct actacggctc atacttatac aaagaaacct gaaacacagg aatcatcctg
+      361 ctattcctaa ctatagctac tgcattcgta ggctacgtcc taccatgagg ccaaatatca
+      421 ttctgaggcg ccaccgtcat cacaaaccta ctctcagcca ccccctacat tggcaatact
+      481 cttgtacaat gaatttgagg ggggttctca gtagacaatg ccaccctaac tcgattcttc
+      541 acctttcatt ttctactccc cttcgctatc gctggtctag cagccgtaca tttactcttc
+      601 ctccacgaaa ctggatcaaa taatccaaca ggattaaact caaacgctga caaaatcccc
+      661 ttccacccct acttctcata caaagaccta ctaggtctca tcctaatact caccctccta
+      721 ttaaccctag cattattctc cccaaacctc ctaggcgacc cagacaactt cacaccagct
+      781 aacccactat ccactccccc tcatatcaaa ccagaatgat acttcctctt cgcctacgca
+      841 atccttcgat ccatccccaa caaactagga ggtgtacttg ccctcctatc ctccatcctt
+      901 gtactattta tagtaccaac cctgcatacc tcaaaacaac gcacagcttc attccgacca
+      961 ttaacccaaa ttctcctctg atgcttagca gctgatctrt tagtactcac atggatcgga
+     1021 ggacaaccag tcgaaaaccc attcatcact attggccaag cagcctctat cctatacttc
+     1081 ataatctttt taacacttat accccttaca ggactcattg aaaacaaaat actaaactaa
+//
+
