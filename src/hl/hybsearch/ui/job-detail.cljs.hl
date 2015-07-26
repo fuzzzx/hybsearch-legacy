@@ -8,7 +8,7 @@
         triples (cell= (:job/triples (first job)))
         processed (cell= (:job/processed (first job)))
         proc-stat (cell= (if initialized (str processed "/" triples) "-"))
-        avgtime-stat (cell= (if initialized (.toFixed (:job/avgtime (first job)) 4) "-"))
+        avgtime-stat (cell= (if initialized (.toFixed (:job/avgtime (first job)) 50) "-"))
         time-stat (cell= (if initialized (str (.toFixed (/ (* (:job/avgtime (first job))
                                                               (- triples processed))
                                                            60)
@@ -30,7 +30,7 @@
                    (div :class "ui center aligned horizontal segment"
                         (div :class "ui small statistic"
                              (div :class "value" (text "~{avgtime-stat}"))
-                             (div :class "label" "Avg. Seconds/Triple (Last 4)"))))
+                             (div :class "label" "Avg. Seconds/Triple (Last 50)"))))
               (div :class "column"
                    (div :class "ui center aligned horizontal segment"
                         (div :class "ui small statistic"

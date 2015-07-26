@@ -44,7 +44,7 @@
 ;; is the "redundance" condition used to prevent more than one instance of the same job
 ;; from being run. Thus, storing timings in active-jobs could result in a condition
 ;; where paused jobs are prevented from resuming.
-;; This will grow by 1 array of 4 doubles per job run, shouldn't be a big deal.
+;; This will grow by 1 array of 50 doubles per job run, shouldn't be a big deal.
 (defonce timings (atom {}))
 
 (defn correct-processed-metric [job-id num-left]
@@ -62,7 +62,7 @@
 (defn insert-time! [job-id t]
   (swap! timings update-in [job-id]
          (fn [a t]
-           (if (< (count (or a [])) 4) ;; Only stores the last 4 timings.
+           (if (< (count (or a [])) 50) ;; Only stores the last 50 timings.
              (into [] (concat [t] (or a [])))
              (into [] (concat [t] (pop a)))))
          t))
